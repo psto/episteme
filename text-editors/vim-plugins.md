@@ -4,7 +4,6 @@ Before installing a plugin try to do it the pure Vim way.
 
 #### Utility
 
-* \*\*\*\*[vim-pug](https://github.com/digitaltoad/vim-pug) - 
 * [vim-surround](https://github.com/tpope/vim-surround) - quoting/parenthesizing made simple.
 * [vim-fugitive](https://github.com/tpope/vim-fugitive) - a Git wrapper.
 * [supertab](https://github.com/ervandew/supertab) - perform all your vim insert mode completions with Tab.
@@ -22,6 +21,7 @@ Before installing a plugin try to do it the pure Vim way.
 #### HTML
 
 * [emmet-vim](https://github.com/mattn/emmet-vim) - support for expanding HTM abbreviations.
+* \*\*\*\*[vim-pug](https://github.com/digitaltoad/vim-pug) - template engine syntax highlighting and indention
 
 #### Javascript
 

@@ -8,6 +8,7 @@
 * [Habits](habits.md)
 * [Podcasts](podcasts.md)
 * [Books](books.md)
+* [Movies](movies.md)
 * [Music](music.md)
 * [Text Editor](text-editors/README.md)
   * [Vim Plugins](text-editors/vim-plugins.md)
