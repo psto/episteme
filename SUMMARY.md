@@ -9,6 +9,7 @@
 * [Podcasts](podcasts.md)
 * [Books](books.md)
 * [Movies](movies.md)
+* [Documentaries](documentaries.md)
 * [Music](music.md)
 * [Text Editor](text-editors/README.md)
   * [Vim Plugins](text-editors/vim-plugins.md)
