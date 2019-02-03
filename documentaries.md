@@ -18,9 +18,9 @@
 * [The Jinx: The Life and Deaths of Robert Durst \(2015\)](https://www.imdb.com/title/tt4299972/)
 * [Icarus \(2017\)](https://www.imdb.com/title/tt6333060/)
 * [The Vietnam War \(2017\)](https://www.imdb.com/title/tt1877514/)
-- [The War](https://www.imdb.com/title/tt0996994/)
+* [The War](https://www.imdb.com/title/tt0996994/)
 * [Dirty Money \(2018\)](https://www.imdb.com/title/tt7889220/)
 * [Wild Wild Country \(2018\)](https://www.imdb.com/title/tt7768848/)
-- [Abstract: The Art of Design](https://www.imdb.com/title/tt6333098/)
-- [The Story of Film: An Odyssey](https://www.imdb.com/title/tt2044056/)
+* [Abstract: The Art of Design](https://www.imdb.com/title/tt6333098/)
+* [The Story of Film: An Odyssey](https://www.imdb.com/title/tt2044056/)
 
