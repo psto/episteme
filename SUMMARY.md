@@ -8,6 +8,7 @@
 * [Habits](habits.md)
 * [Podcasts](podcasts.md)
 * [Books](books.md)
+* [Blogs](blogs.md)
 * [Movies](movies.md)
 * [Documentaries](documentaries.md)
 * [Music](music.md)

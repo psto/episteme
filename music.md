@@ -1,12 +1,6 @@
 # Music
 
-## Can I become who I want to be?
-
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
-
-## Have you had a chance to answer the previous question?
-
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+I listen to a wide variety of music. Favourite genres are [progressive rock](https://en.wikipedia.org/wiki/Progressive_rock), [electronic music](https://en.wikipedia.org/wiki/Electronic_music) especially [IDM](https://en.wikipedia.org/wiki/Intelligent_dance_music) \(I use the abbreviation because the name is terrible\) and [krautrock](https://en.wikipedia.org/wiki/Krautrock).
 
 
 

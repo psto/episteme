@@ -1,7 +1,3 @@
----
-description: Powerful mental tools to help you master tough subjects
----
-
 # Learning How to Learn
 
 The following are [/u/meflou](https://www.reddit.com/r/GetMotivated/comments/5950tm/text_i_just_finished_the_online_coursera_course/) \(who has done a far better job summarizing than I did\) notes from Barbara Oakley's course [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn). She is also the author of A Mind for Numbers on the course is based on. I highly recommend both.

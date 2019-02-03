@@ -1,7 +1,3 @@
----
-description: Based on research by B. J. Fogg
----
-
 # Habits
 
 ## Why motivation isn't enough?
