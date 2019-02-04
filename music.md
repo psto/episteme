@@ -13,7 +13,7 @@ I listen to a wide variety of music. Favourite genres are [progressive rock](htt
 - [dredg](https://en.wikipedia.org/wiki/Dredg)
 - [The Mars Volta](https://en.wikipedia.org/wiki/The_Mars_Volta)
 - [Tangerine Dream](https://en.wikipedia.org/wiki/Tangerine_Dream)
-- [Satellite](https://en.wikipedia.org/wiki/Satellite)
+- [Satellite](https://en.wikipedia.org/wiki/Satellite_(Polish_band))
 - [Opeth](https://en.wikipedia.org/wiki/Opeth)
 - [Talk Talk](https://en.wikipedia.org/wiki/Talk_Talk)
 
