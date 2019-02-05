@@ -10,23 +10,23 @@ But "[I have nothing to hide!](https://en.wikipedia.org/wiki/Nothing_to_hide_arg
 
 ## What I use
 
-Browser: [Firefox](https://www.mozilla.org/kab/firefox/developer/) with [add-ons](https://www.privacytools.io/#addons) and the following [config](https://www.privacytools.io/#about_config) and [Tor](https://www.torproject.org/download/download-easy.html.en); [firefox mobile](https://www.mozilla.org/en-US/firefox/mobile/) and [Tor for android](https://www.torproject.org/projects/torbrowser.html.en#downloads-alpha) with [orbot](https://guardianproject.info/apps/orbot/).
+**Browser**: [Firefox](https://www.mozilla.org/kab/firefox/developer/) with [add-ons](https://www.privacytools.io/#addons) + this [config](https://www.privacytools.io/#about_config) and [Tor](https://www.torproject.org/download/download-easy.html.en); [Firefox mobile](https://www.mozilla.org/en-US/firefox/mobile/) and [Tor for android](https://www.torproject.org/projects/torbrowser.html.en#downloads-alpha) with [orbot](https://guardianproject.info/apps/orbot/).
 
-Text messaging: [Signal](https://signal.org/).
+**Text messaging**: [Signal](https://signal.org/).
 
-Email: [Mailpile](https://www.mailpile.is/) on pc and [K-9 Mail](https://github.com/k9mail/k-9/releases) on mobile. I've changed my email account to [protonmail](https://protonmail.com/), but I'm still forced to use gmail sometimes.
+**Email**: [Mailpile](https://www.mailpile.is/) on pc and [K-9 Mail](https://github.com/k9mail/k-9/releases) on mobile. I've changed my email account to [protonmail](https://protonmail.com/), but I'm still forced to use gmail sometimes.
 
-Search: I'm a [DuckDuckGo](https://duckduckgo.com/) user since 2011 and it's getting better and better.
+**Search**: I'm a [DuckDuckGo](https://duckduckgo.com/) user since 2011 and it's getting better and better.
 
-OS: [Ubuntu](https://www.ubuntu.com/).
+**OS**: [Ubuntu](https://www.ubuntu.com/).
 
-Mobile OS: [LineageOS](https://www.lineageos.org/).
+**Mobile OS**: [LineageOS](https://www.lineageos.org/).
 
-Password Manager: [KeePassXC](https://keepassxc.org/)
+**Password Manager**: [KeePassXC](https://keepassxc.org/)
 
-Online Communication: [Keybase](https://keybase.io/), you can find my info [here](https://keybase.io/psto).
+**Online Communication**: [Keybase](https://keybase.io/), you can find my info [here](https://keybase.io/psto).
 
-VPN: [ProtonVPN](https://protonvpn.com/)
+**VPN**: [ProtonVPN](https://protonvpn.com/)
 
 ## Links
 
@@ -34,6 +34,7 @@ VPN: [ProtonVPN](https://protonvpn.com/)
 * [How to encrypt your entire life in less than an hour](https://medium.freecodecamp.org/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3) by Quincy Larson.
 * [Privacy Tools](https://www.privacytools.io/) and [Prism Break](https://prism-break.org/en/) for finding-privacy focused software alternatives.
 * [r/privacy wiki](https://www.reddit.com/r/privacy/wiki/index)
+* [A Modest Privacy Protection Proposal](https://medium.com/s/story/a-modest-privacy-protection-proposal-5b47631d7f4c) by Jameson Lopp
 * [Jolly Roger’s Security Guide for Beginners](https://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/)
 * Read up how websites manipulate you into buying, subscribing to stuff you don't need and giving up your privacy: [Deceived by design \(pdf\)](https://fil.forbrukerradet.no/wp-content/uploads/2018/06/2018-06-27-deceived-by-design-final.pd://fil.forbrukerradet.no/wp-content/uploads/2018/06/2018-06-27-deceived-by-design-final.pdf), [darkpatterns.org](https://darkpatterns.org/)
 * [I've Got Nothing to Hide' and Other Misunderstandings of Privacy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565&) by Daniel J. Solove
