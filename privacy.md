@@ -34,6 +34,7 @@ VPN: [ProtonVPN](https://protonvpn.com/)
 * [How to encrypt your entire life in less than an hour](https://medium.freecodecamp.org/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3) by Quincy Larson.
 * [Privacy Tools](https://www.privacytools.io/) and [Prism Break](https://prism-break.org/en/) for finding-privacy focused software alternatives.
 * [r/privacy wiki](https://www.reddit.com/r/privacy/wiki/index)
+* [Jolly Roger’s Security Guide for Beginners](https://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/)
 * Read up how websites manipulate you into buying, subscribing to stuff you don't need and giving up your privacy: [Deceived by design \(pdf\)](https://fil.forbrukerradet.no/wp-content/uploads/2018/06/2018-06-27-deceived-by-design-final.pd://fil.forbrukerradet.no/wp-content/uploads/2018/06/2018-06-27-deceived-by-design-final.pdf), [darkpatterns.org](https://darkpatterns.org/)
 * [I've Got Nothing to Hide' and Other Misunderstandings of Privacy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565&) by Daniel J. Solove
 * More on Surveillance Capitalism: [Wikipedia](https://en.wikipedia.org/wiki/Surveillance_capitalism), [The Age of Surveillance Capitalism](https://www.goodreads.com/book/show/26195941-the-age-of-surveillance-capitalism) book
