@@ -1,9 +1,12 @@
 # Podcasts
 
-I don't watch TV or read the news, but I do listen to podcasts. They are still underrated. Ideas seem to flourish more in a long form medium with a conversational tone. Also I love how authors are forced to distill their needlessly-long-books.
+I don't watch TV or read the news, but I do listen to podcasts. They are still underrated. Ideas seem to flourish more in a long form medium with a conversational tone. Also, I love how authors are forced to distil their needlessly-long-books.
 
-I am subscribed to a lot of podcasts but I only listen to topics that sound interesting to me.   
-I use [player.fm](https://player.fm). 
+I am subscribed to a lot of podcasts but I only listen to topics that sound interesting to me.
+
+**Tip**: listen to podcasts at 3x speed (you can get used to it, start at 1.5x speed and work your way up).
+
+I use [player.fm](https://player.fm).
 
 ### What I listen to
 
