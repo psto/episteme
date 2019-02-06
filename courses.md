@@ -1,8 +1,6 @@
 # Courses
 
-## Courses
-
-## Some courses I've enjoyed
+# Some courses I've enjoyed
 
 * [Learning to Learn by Barbara Oakley](https://www.coursera.org/learn/learning-how-to-learn)
 * [Human Behavioral Biology by Robert Sapolsky](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D)
@@ -19,7 +17,7 @@
 * [Introduction to Digital Currencies by Andreas Antonopoulos, Antonis Polemitis and Dmitry Apraksin](https://digitalcurrency.unic.ac.cy/free-introductory-mooc/)
 * [Economics of Money and Banking by Perry Mehrling](https://www.coursera.org/learn/money-banking)
 
-## Links
+# Links
 
 * [Awesome courses](https://github.com/prakhar1989/awesome-courses) - list of awesome university courses for learning Computer Science.
 * [Computer Science](https://github.com/ossu/computer-science) - path to a free self-taught education in Computer Science.
