@@ -190,4 +190,5 @@ I am guilty of falling for the buzz around new books. However, I follow a few ru
 
 * [A Helpful Guide to Reading Better](https://fs.blog/reading/)
 * [Speed Reading is Bullshit](https://medium.com/the-mission/speed-reading-is-bullshit-f5acbee7f59e)
+* [Hacker News Books](https://hackernewsbooks.com/) - the top books mentioned in comments on [Hacker News](https://news.ycombinator.com) this.
 
