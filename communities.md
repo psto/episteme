@@ -11,6 +11,7 @@
 * [r/AskHistorians](https://www.reddit.com/r/AskHistorians/)
 * [r/AskScience](https://www.reddit.com/r/askscience/)
 * [r/Privacy](https://www.reddit.com/r/privacy/)
+* [r/ChangeMyView](http://www.reddit.com/r/changemyview)
 * [StackOverflow](https://stackoverflow.com/)
 * [Lobste.rs](https://lobste.rs/)
 
