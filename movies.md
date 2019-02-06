@@ -45,7 +45,5 @@ I love movies where things are not what they seem.
 * [One-Minute Time Machine \(2014\) ](https://www.imdb.com/title/tt3620860/)
 * [Uncanny Valley \(2015\)](https://www.imdb.com/title/tt5269194/)
 * [Hyper-Reality \(2016\)](https://www.imdb.com/title/tt6067174/)
-* Tomasz Bagiński: [Katedra (2002)](https://www.imdb.com/title/tt0351167/), [Sztuka spadania (2004)](https://www.imdb.com/title/tt0440846)
-
- 
+* Tomasz Bagiński: [Katedra \(2002\)](https://www.imdb.com/title/tt0351167/), [Sztuka spadania \(2004\)](https://www.imdb.com/title/tt0440846)
 
