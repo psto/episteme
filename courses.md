@@ -11,7 +11,7 @@
 * [Death with Shelly Kagan](https://www.youtube.com/playlist?list=PLEA18FAF1AD9047B0)
 * Financial Markets with Robert Shiller \([youtube](https://www.youtube.com/playlist?list=PL8FB14A2200B87185), [coursera](https://www.coursera.org/learn/financial-markets-global)\)
 * [A Beginner's Guide to Irrational Behavior by Dan Ariely](https://www.youtube.com/playlist?list=PLUc5eJ1g5zWxz3lTpJy5Jtc5BJVJdk1NQ)
-* [Y Combinator's Startup School](https://www.startupschool.org/latest)
+* [Y Combinator's Startup School](https://www.startupschool.org/latest) with [recommended readings](http://startupclass.samaltman.com/lists/readings/)
 * [Model Thinking by Scott Page](https://www.coursera.org/learn/model-thinking)
 * [Game Theory by Matthew Jackson, Kevin Leyton-Brown and Yoav Shoham](https://www.coursera.org/learn/game-theory-1)
 * [Cryptography I by Dan Boneh](https://www.coursera.org/learn/crypto)
