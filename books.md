@@ -188,7 +188,7 @@ I am guilty of falling for the buzz around new books. However, I follow a few ru
 
 ## Links:
 
-* [A Helpful Guide to Reading Better](https://fs.blog/reading/)
+* [A Helpful Guide to Reading Better](https://fs.blog/reading/) and [How To Read a Book](https://www.farnamstreetblog.com/how-to-read-a-book/).
 * [Speed Reading is Bullshit](https://medium.com/the-mission/speed-reading-is-bullshit-f5acbee7f59e)
-* [Hacker News Books](https://hackernewsbooks.com/) - the top books mentioned in comments on [Hacker News](https://news.ycombinator.com) this.
-
+* [Hacker News Books](https://hackernewsbooks.com/) - the top books mentioned in comments on [Hacker News](https://news.ycombinator.com).
+* [A taxonomy of ways books change your worldview](https://juliagalef.com/2017/01/06/a-taxonomy-of-books-that-change-your-worldview/) by Julia Galef
