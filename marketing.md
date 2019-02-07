@@ -10,7 +10,7 @@
 
 *source: [The Tactical Triangle](https://www.perrymarshall.com/2100/tactical-triangle/) by Perry Marshall*
 
-To sell, you have to get **T**raffic -> **C**onvert it -> profit (**E**conomics). Re-invest the earnings to get more traffic forming a loop.
+To sell, you have to get **T**raffic &rightarrow; **C**onvert it &rightarrow; profit (**E**conomics). Re-invest the earnings to get more traffic forming a loop.
 
 ## 1. **Traffic**: Who are the buyers?
 
@@ -45,7 +45,7 @@ Be aware of a this journey that happens inside your customer’s mind:
 
 ![The Motivational Forces That Drive Customers to Buy](https://cdn-images-1.medium.com/max/800/0*_HyzghYYi1LacO86.png)
 
-You have to take a potential customer from Point A  (curent reality without your product) to Point B  ( new reality where they need and use your product): Reach (USP) -> Engage (demonstrate) -> Convert.
+You have to take a potential customer from Point A  (curent reality without your product) to Point B  ( new reality where they need and use your product): Reach (USP) &rightarrow; Engage (demonstrate) &rightarrow; Convert.
 
 Even with everything done right you are still facing:
 * **friction** (anxiety/uncertainty of embracing something new): the "I don't need this" voice.
@@ -55,9 +55,16 @@ You must make the transition to your product as seamless as possible.
 
 After the sale you have nurture your relationship with the client (onboarding, [showing how your product makes them awesome](https://www.goodreads.com/book/show/24737268-badass))
 
+# Notes
+* Tips on content marketing:
+  * People focus on the content and forget the marketing part. **50/50 Rule**: spend 50% of the time writing the content and the other 50% promoting it. Eric Siu goes further: [20% Creation and 80% Promotion](https://www.singlegrain.com/blog-posts/content-marketing/why-content-marketing-should-always-be-20-creation-and-80-promotion/). Neil Patel on [promoting blog posts](https://neilpatel.com/blog/the-uncensored-guide-to-promoting-a-blog-post/) and on [how much should you write](https://neilpatel.com/blog/write-fewer-blog-posts/).
+  * A question for creating interesting content: how would X look like through the lens of Y? Example: [If Football and Golf Commentators switched places](https://www.youtube.com/watch?v=nXzLu4Ps3dY).
+  * [Document Don't Create](https://www.garyvaynerchuk.com/creating-content-that-builds-your-personal-brand/) by Gary Vaynerchuk: "Documenting your journey versus creating an image of yourself."
+  
 # Links
 
 * [Books on marketing I recommend](https://wiki.stojanow.com/books#marketing) 
 * [Quant Based Marketing](quant-based-marketing-for-pre-launch-start-up) by Noah Kagan
+* [28 Ideas For Content Upgrades To Grow Your Email List](https://sumo.com/stories/content-upgrades)
 * [1,000 True Fans](https://kk.org/thetechnium/1000-true-fans/) by Kevin Kelly
 * [Selling Software To Large Businesses](https://training.kalzumeus.com/newsletters/archive/enterprise_sales) by Patrick McKenzie
