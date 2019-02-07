@@ -107,7 +107,9 @@ I am guilty of falling for the buzz around new books. However, I follow a few ru
 * Ca$hvertising: How to Use More Than 100 Secrets of Ad-Agency Psychology to Make BIG MONEY Selling Anything to Anyone by 
 * Badass: Making Users Awesome by Kathy Sierra
 * Traction: A Startup Guide to Getting Customers by Gabriel Weinberg
-* Hooked: How to Build Habit-Forming Products by Nir Eyal 
+* Hooked: How to Build Habit-Forming Products by Nir Eyal
+* 80/20 Sales and Marketing by Perry Marshall
+* SPIN Selling by Neil Rackham
 
 ### Politics
 
