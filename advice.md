@@ -1,7 +1,5 @@
 # Advice
 
-## Advice
-
 Most advice is divorced from consequences. Advice is also cheap and lacks skin in the game. We discount advice because we [anticipate more regret from following bad advice than our own plans](https://onlinelibrary.wiley.com/doi/full/10.1002/bdm.2048). That said:
 
 > "Good advice is priceless. Not what you want to hear, but what you need to hear. Not imaginary, but practical. Not based on fear, but on possibility. Not designed to make you feel better, designed to make you better. Seek it out and embrace the true friends that care enough to risk sharing it. I'm not sure what takes more guts—giving it or getting it." [Seth Godin](https://seths.blog/2014/05/good-advice/)
