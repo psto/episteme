@@ -14,7 +14,7 @@ To sell, you have to get **T**raffic -> **C**onvert it -> profit (**E**conomics)
 
 ## 1. **Traffic**: Who are the buyers?
 
-* case studies: [growing a website](https://sumo.com/stories/growing-website), [first 10000 visitors](https://sumo.com/stories/first-10000-visitors-sarah-peterson), [0-10k](https://sumo.com/stories/0-10k-nat-eliason], (100,000 Visitors in 1 Year)[https://okdork.com/grow-blog-100000-visitors-less-year/)
+* case studies: [growing a website](https://sumo.com/stories/growing-website), [first 10000 visitors](https://sumo.com/stories/first-10000-visitors-sarah-peterson), [0-10k](https://sumo.com/stories/0-10k-nat-eliason), [100,000 Visitors in 1 Year](https://okdork.com/grow-blog-100000-visitors-less-year/)
 * [Traction: A Startup Guide to Getting Customers](https://www.goodreads.com/book/show/22091581-traction) by Gabriel Weinberg and implement [The Bullseye Framework for Getting Traction](https://medium.com/@yegg/the-bullseye-framework-for-getting-traction-ef49d05bfd7e)
 
 ## 2. **Economics**: Can we reach them affordably?
