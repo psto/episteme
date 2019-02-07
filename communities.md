@@ -3,7 +3,7 @@
 * [Hacker News](https://news.ycombinator.com/)
 * [Slate Star Codex](https://slatestarcodex.com/) and [r/SlateStarCodex](https://www.reddit.com/r/slatestarcodex/)
 * [LessWrong](https://www.lesswrong.com/)
-* twitter, use [TweetDeck](https://tweetdeck.twitter.com/) and curate your timeline. Use lists like: [Naval's crypto](https://twitter.com/naval/lists/crypto), [Patrick Collison's reading](https://twitter.com/patrickc/lists/reading)
+* twitter, use [TweetDeck](https://tweetdeck.twitter.com/) (chronological feed) and curate your timeline. Use lists like: [Naval's crypto](https://twitter.com/naval/lists/crypto), [Patrick Collison's reading](https://twitter.com/patrickc/lists/reading).
 * [r/Rational](https://www.reddit.com/r/rational/)
 * [r/DataIsBeautiful](https://www.reddit.com/r/dataisbeautiful/)
 * [r/BadEconomics](https://www.reddit.com/r/badeconomics/)
@@ -14,6 +14,7 @@
 * [r/ChangeMyView](http://www.reddit.com/r/changemyview)
 * [StackOverflow](https://stackoverflow.com/)
 * [Lobste.rs](https://lobste.rs/)
+* [GrowthHackers](https://growthhackers.com/posts)
 
 AI: [r/MachineLearning](https://www.reddit.com/r/MachineLearning/), [r/ControlProblem](https://www.reddit.com/r/ControlProblem/), [r/DecisionTheory](https://www.reddit.com/r/DecisionTheory/), [r/ReinforcementLearning](https://www.reddit.com/r/reinforcementlearning/)
 
