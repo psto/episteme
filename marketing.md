@@ -14,8 +14,8 @@ To sell, you have to get **T**raffic -> **C**onvert it -> profit (**E**conomics)
 
 ## 1. **Traffic**: Who are the buyers?
 
-* case studies: [grwoing a website](https://sumo.com/stories/growing-website), (first 10000 visitors)[https://sumo.com/stories/first-10000-visitors-sarah-peterson], (0-10k)[https://sumo.com/stories/0-10k-nat-eliason], (100,000 Visitors in 1 Year)[https://okdork.com/grow-blog-100000-visitors-less-year/]
-* [Traction: A Startup Guide to Getting Customers](https://www.goodreads.com/book/show/22091581-traction) by Gabriel Weinberg and implement [The Bullseye Framework for Getting Traction] 
+* case studies: [growing a website](https://sumo.com/stories/growing-website), [first 10000 visitors](https://sumo.com/stories/first-10000-visitors-sarah-peterson), [0-10k](https://sumo.com/stories/0-10k-nat-eliason], (100,000 Visitors in 1 Year)[https://okdork.com/grow-blog-100000-visitors-less-year/)
+* [Traction: A Startup Guide to Getting Customers](https://www.goodreads.com/book/show/22091581-traction) by Gabriel Weinberg and implement [The Bullseye Framework for Getting Traction](https://medium.com/@yegg/the-bullseye-framework-for-getting-traction-ef49d05bfd7e)
 
 ## 2. **Economics**: Can we reach them affordably?
 
@@ -48,8 +48,8 @@ Be aware of a this journey that happens inside your customer’s mind:
 You have to take a potential customer from Point A  (curent reality without your product) to Point B  ( new reality where they need and use your product): Reach (USP) -> Engage (demonstrate) -> Convert.
 
 Even with everything done right you are still facing:
-* friction (anxiety/uncertainty of embracing something new): the "I don't need this" voice.
-* inertia (switching cost): the "It's too much effort" voice.
+* **friction** (anxiety/uncertainty of embracing something new): the "I don't need this" voice.
+* **inertia** (switching cost): the "It's too much effort" voice.
 
 You must make the transition to your product as seamless as possible.
 
