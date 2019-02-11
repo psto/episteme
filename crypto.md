@@ -35,7 +35,7 @@ That's it. Now comes the tough part. You have to read more. Everyday.
 
 * [Why It’s Hard to “Get” Bitcoin: The Blockchain Spectrum](https://blog.unchained-capital.com/blockchain-spectrum-806847e1c575) by Dhruv Bansal
 
-![\[Blockchain and cryptocurrency diagram by Taylor Pearson\]\(https://twitter.com/TaylorPearsonMe/status/923998769045127168\)](https://cdn-images-1.medium.com/max/1600/1*xILoZ-QpFWYLjAFEfjWWaw.png)
+![Blockchain and cryptocurrency diagram by Taylor Pearson](https://cdn-images-1.medium.com/max/1600/1*xILoZ-QpFWYLjAFEfjWWaw.png)
 
 > "A blockchain is a distributed system using cryptography to secure an evolving consensus about an economically valuable token."
 
