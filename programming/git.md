@@ -22,8 +22,7 @@
 * [Git in the trenches](https://cbx33.github.io/gitt/intro.html) by Peter Savage
 
 # Links
-* Best Practices: [Version Control Best Practices](https://www.git-tower.com/learn/git/ebook/en/command-line/appendix/best-practices#start), [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/), [Workflow Guidelines](https://www.lullabot.com/articles/git-best-practices-workflow-guidelines), [Git branching and tagging best practices
-](https://softwareengineering.stackexchange.com/questions/165725/git-branching-and-tagging-best-practices).
+* Best Practices: [Version Control Best Practices](https://www.git-tower.com/learn/git/ebook/en/command-line/appendix/best-practices#start), [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/), [Workflow Guidelines](https://www.lullabot.com/articles/git-best-practices-workflow-guidelines), [Git branching and tagging best practices](https://softwareengineering.stackexchange.com/questions/165725/git-branching-and-tagging-best-practices).
 * [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet#readme) - a list of cool features of Git and GitHub.
 * [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html) - a visual reference for the most common commands in git.
 * [Git for Computer Scientists](http://eagain.net/articles/git-for-computer-scientists/)
