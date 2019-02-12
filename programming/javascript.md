@@ -1,5 +1,7 @@
 # JavaScript
 
+> “Any application that can be written in JavaScript, will eventually be written in JavaScript.”  — Jeff Atwood
+
 ## JavaScript
 
 ### Quick guides to get started
