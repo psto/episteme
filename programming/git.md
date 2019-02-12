@@ -9,6 +9,7 @@
 * [Think like a Git](http://think-like-a-git.net/) - understanding Git enlightenment.
 * [Understanding Git Conceptually](https://www.sbf5.com/~cduan/technical/git/)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html)
+* [Codecademy's Learn Git](https://www.codecademy.com/learn/learn-git)
 
 ### Git Books (free)
 * [Pro Git](https://git-scm.com/book/en/v2) by Scott Chacon and Ben Straub 
