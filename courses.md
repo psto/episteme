@@ -21,6 +21,7 @@
 
 ## Links
 
+* [hn.academy](https://hn.academy/) - collects, ranks, and showcases the online courses recommended by [Hacker News](https://news.ycombinator.com/) users.
 * [Awesome courses](https://github.com/prakhar1989/awesome-courses) - list of awesome university courses for learning Computer Science.
 * [Computer Science](https://github.com/ossu/computer-science) - path to a free self-taught education in Computer Science.
 * [Take at least one good Statistics course](https://www.reddit.com/r/LifeProTips/comments/4lshg6/lpt_take_at_least_one_good_statistics_course/d3q4l74/)
