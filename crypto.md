@@ -44,4 +44,6 @@ That's it. Now comes the tough part. You have to read more. Everyday.
 * [Bitcoin Resources](https://lopp.net/bitcoin.html) by Jameson Loop.
 * [Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/) by a16z
 * [Crypto podcasts I recommend](https://wiki.stojanow.com/podcasts#crypto)
+* [Blockchain demo](https://blockchaindemo.io/) - a visual demo of blockchain technology.
+* [Coin demo](https://coindemo.io/) - a cryptocurrency demo.
 
