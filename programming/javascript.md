@@ -43,5 +43,6 @@
 * [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms#readme) - JS examples of many popular algorithms and data structures.
 * [Design Patterns JS](https://github.com/fbeline/Design-Patterns-JS) - all the 23 \(GoF\) design patterns implemented in Javascript.
 * [JavaScript Visualizer](https://tylermcginnis.com/javascript-visualizer/) - a tool for visualizing Execution Context, Hoisting, Closures, and Scopes in JS.
+* [Awesome Javascript](https://github.com/sorrycc/awesome-javascript) - a collection of awesome browser-side JavaScript libraries, resources and shiny things.
 * [Superhero.js](http://superherojs.com) - a list of articles that help explain the syntax of JavaScript, how to organize your projects, how to test your code, and what's on the horizon.
 
