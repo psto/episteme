@@ -7,6 +7,5 @@
 [The Feynman Technique](the-feynman-technique.md)  
 [How to remember stuff?](how-to-remember-stuff.md)  
 
-
-
-
+# Links
+* [Learn Anything](https://learn-anything.xyz/) - community curated knowledge graph of best paths for learning anything.
