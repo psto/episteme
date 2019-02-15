@@ -24,4 +24,4 @@ My [.vimrc](https://github.com/psto/dotfiles/blob/master/init.vim) file.
 * [Oni](https://www.onivim.io/) - built on neovim, combining modal editing with features of modern editors.
 * [Atom](https://atom.io/) - a hackable text editor built on Electron.
 * [Sublime Text](https://www.sublimetext.com/3) - just because old habits die hard.
-
+* [Visual Studio Code](https://code.visualstudio.com/) - if I had to choose something other than neovim.
