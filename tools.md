@@ -6,7 +6,7 @@
 * [Jekyll](https://jekyllrb.com/) - transform your plain text into static websites and blogs.
 * [IFTTT](https://ifttt.com/)- automate the boring stuff by getting all your apps and devices talking to each other. 
 * [transfer.sh](https://transfer.sh/) - easy file sharing from the command line.
-* [Tiny Letter](tinyletter.com) - a fre personal newsletter by Mailchimp.
+* [Tiny Letter](tinyletter.com) - a free personal newsletter by Mailchimp.
 * [Todo.txt](http://todotxt.org/) from the [command line](https://github.com/todotxt/todo.txt-cli) - simple todo list based on a todo.txt file.
 * [Hemingway App](https://hemingwayapp.com/) makes your writing bold and clear.
 * [Grammarly](https://www.grammarly.com/) - eliminate errors from grammar and spelling to style and tone.
