@@ -1,8 +1,11 @@
 # Programming
 
+## Programming
+
 > "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." —Patrick McKenzie
 
-# Links
+## Links
+
 * [What is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) by Paul Ford
 * [Programming Language Theory](https://steshaw.org/plt/) - a path to enlightenment for programming practitioners who didn’t learn it at school.
 * [GitHut](https://githut.info/) - visualize and explore the complexity of the universe of programming languages used across the repositories hosted on GitHub.
@@ -16,6 +19,7 @@
 * [Professional Programming](https://github.com/charlax/professional-programming#readme)
 * [Awesome Cold Showers](https://github.com/hwayne/awesome-cold-showers#readme) - a list of cold showers on overhyped topics.&
 * [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-* [arl](https://github.com/kaxap/arl#readme) - lists of most popular repositories for most favoured programming languages (according to StackOverflow).
+* [arl](https://github.com/kaxap/arl#readme) - lists of most popular repositories for most favoured programming languages \(according to StackOverflow\).
 * [Good books for deep hacks](https://begriffs.com/posts/2017-04-13-longterm-computing-reading.html) by Joe Nelson, a list of books for a deep dive into interesting technical topics.
 * [The Tao of Programming](http://www.mit.edu/~xela/tao.html)
+
