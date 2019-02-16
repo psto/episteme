@@ -27,3 +27,4 @@
 * [Minding our way](http://mindingourway.com/) by Nate Soares: a rational take on productivity.
 * [Plaintext Productivity](http://plaintext-productivity.net/) by Michael Descy: a productivity system using plaintext files.
 * [The Secret Weapon](https://thesecretweapon.org/the-secret-weapon-manifesto/manifesto-part-1-the-issue/): email + Evernote + GTD.
+
