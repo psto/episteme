@@ -1,7 +1,5 @@
 # Productivity
 
-## Productivity
-
 ### Notes
 
 * On distractions:
@@ -26,4 +24,6 @@
 * [Execute by Default](https://www.lesswrong.com/posts/FHukyfMagq4HrBYNt/willpower-hax-487-execute-by-default) by Eliezer Yudkowsky
 * [How We Use the Procrastination Equation](https://alexvermeer.com/how-we-use-the-procrastination-equation/) by Alex Vermeer and Jimmy Rintjema
 * [Every productivity thought I've ever had, as concisely as possible](https://guzey.com/productivity/) by Alexey Guzey
-* [Minding our way](http://mindingourway.com/) by Nate Soares
+* [Minding our way](http://mindingourway.com/) by Nate Soares: a rational take on productivity.
+* [Plaintext Productivity](http://plaintext-productivity.net/) by Michael Descy: a productivity system using plaintext files.
+* [The Secret Weapon](https://thesecretweapon.org/the-secret-weapon-manifesto/manifesto-part-1-the-issue/): email + Evernote + GTD.
