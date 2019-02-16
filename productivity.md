@@ -26,4 +26,4 @@
 * [Execute by Default](https://www.lesswrong.com/posts/FHukyfMagq4HrBYNt/willpower-hax-487-execute-by-default) by Eliezer Yudkowsky
 * [How We Use the Procrastination Equation](https://alexvermeer.com/how-we-use-the-procrastination-equation/) by Alex Vermeer and Jimmy Rintjema
 * [Every productivity thought I've ever had, as concisely as possible](https://guzey.com/productivity/) by Alexey Guzey
-
+* [Minding our way](http://mindingourway.com/) by Nate Soares
