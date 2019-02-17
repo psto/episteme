@@ -30,8 +30,10 @@
 * [Text Editor](text-editors/README.md)
   * [Vim Plugins](text-editors/vim-plugins.md)
 * [Productivity](productivity.md)
-* [Tools](tools.md)
+* [Tools](tools/README.md)
+  * [CLI](tools/cli.md)
 * [News](news.md)
 * [Design](design.md)
 * [Research papers](research-papers.md)
+* [Talks](talks.md)
 
