@@ -1,9 +1,8 @@
 # Tools
 
-## Tools
-
 ### Tools I use
 
+* [My privacy tools](https://wiki.stojanow.com/privacy#what-i-use)
 * [GitBook](https://www.gitbook.com) - create books or documentation. It's also how I render markdown files in this wiki.
 * [GitHub](http://github.com/) and [GitHub pages](https://pages.github.com/) for free hosting.
 * [Jekyll](https://jekyllrb.com/) - transform your plain text into static websites and blogs.
@@ -17,14 +16,13 @@
 * [redshift](https://github.com/jonls/redshift) - adjusts the color temperature of your screen according to your surroundings.
 * [Loom](https://www.useloom.com/) - communicate by sharing a video instead of a wall of text.
 * [Wolfram Alpha](https://www.wolframalpha.com/)
-* [Evernote](https://evernote.com/) and [Webclipper](https://evernote.com/features/webclipper) for notes and saving websites.
-* [Marxi](http://marxi.co/) - a markdown editor for Evernote.
+* [Evernote](https://evernote.com/), [Webclipper](https://evernote.com/features/webclipper) for notes and saving websites and [Marxi](http://marxi.co/) (a markdown editor).
+* [Dropbox](https://www.dropbox.com) with [Cryptomator](https://cryptomator.org/) encryption.
 * [paletton](http://paletton.com) and [color calculator](https://www.sessions.edu/color-calculator/) - pick a color scheme.
 
-## Links
+# Links
 
 * [Hacker Tools](https://hacker-tools.github.io) - make the most of the tools that hackers have been using for decades.
 * [Uses This](https://usesthis.com/) - asking people from all walks of life what they use to get the job done.
 * [Awesome Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - the best design tools for everything.
 * [Awesome Research Tools](https://github.com/emptymalei/awesome-research) - a curated list of tools to help you with research.
-
