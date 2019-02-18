@@ -36,4 +36,5 @@
 * [Design](design.md)
 * [Research papers](research-papers.md)
 * [Talks](talks.md)
+* [Economics](economics.md)
 

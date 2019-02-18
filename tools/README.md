@@ -1,5 +1,7 @@
 # Tools
 
+## Tools
+
 ### Tools I use
 
 * [GitBook](https://www.gitbook.com) - create books or documentation. It's also how I render markdown files in this wiki.
@@ -19,9 +21,10 @@
 * [Marxi](http://marxi.co/) - a markdown editor for Evernote.
 * [paletton](http://paletton.com) and [color calculator](https://www.sessions.edu/color-calculator/) - pick a color scheme.
 
-# Links
+## Links
 
 * [Hacker Tools](https://hacker-tools.github.io) - make the most of the tools that hackers have been using for decades.
 * [Uses This](https://usesthis.com/) - asking people from all walks of life what they use to get the job done.
 * [Awesome Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - the best design tools for everything.
 * [Awesome Research Tools](https://github.com/emptymalei/awesome-research) - a curated list of tools to help you with research.
+
