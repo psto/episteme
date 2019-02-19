@@ -30,7 +30,7 @@
 * [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read) by Reg Braithwaite.
 * [JSbooks](https://jsbooks.revolunet.com/) - links to more free JS books.
 
-## Links
+# Links
 
 * [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden) - a collection of the most quirky parts of JavaScript.
 * [33 concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts#readme)
@@ -43,6 +43,9 @@
 * [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms#readme) - JS examples of many popular algorithms and data structures.
 * [Design Patterns JS](https://github.com/fbeline/Design-Patterns-JS) - all the 23 \(GoF\) design patterns implemented in Javascript.
 * [JavaScript Visualizer](https://tylermcginnis.com/javascript-visualizer/) - a tool for visualizing Execution Context, Hoisting, Closures, and Scopes in JS.
-* [Awesome Javascript](https://github.com/sorrycc/awesome-javascript) - a collection of awesome browser-side JavaScript libraries, resources and shiny things.
+* [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript) - a collection of awesome browser-side JavaScript libraries, resources and shiny things.
+* [JavaScript in one pic](https://github.com/coodict/javascript-in-one-pic) learn javascript in one picture.
+* [JS Tips](https://github.com/loverajoel/jstips) - short and useful JavaScript tips that will allow you to improve your code writing.
+* [JS Bits](https://github.com/vasanthk/js-bits) - JavaScript concepts explained with code.
 * [Superhero.js](http://superherojs.com) - a list of articles that help explain the syntax of JavaScript, how to organize your projects, how to test your code, and what's on the horizon.
 
