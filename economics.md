@@ -10,7 +10,7 @@
   * How to (re)align the incentive structures?
 * Leave small crises to resolve themselves. Step in for huge ones.
 * Debt is not the answer. It compounds bureaucrats problems.
-  * Private debt shoudln't become public debt. Taxpayers shouldn't pay for bailouts.
+  * Private debt shouldn't become public debt. Taxpayers shouldn't pay for bailouts.
 * Decentralised systems withstand more than centralised systems. 
 
 ### What I enjoyed reading
@@ -19,6 +19,7 @@
 * [Economics in One Lesson](https://archive.org/details/HenryHazlittEconomicsInOneLesson) by Henry Hazlitt
 * [I, Pencil: My Family Tree](https://www.econlib.org/library/Essays/rdPncl.html) by Leonard E. Read
 * [The Use of Knowledge in Society"](https://www.econlib.org/library/Essays/hykKnw.html) by Friedrich A. Hayek
+* [Charlie Munger: Academic Economics — Strengths and Weaknesses, after Considering Interdisciplinary Needs](https://fs.blog/2015/03/charlie-munger-academic-economics/)
 
 # Links
 * [Econlib](https://www.econlib.org/cee/) The Library of Economics and Liberty.
