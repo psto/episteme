@@ -1,7 +1,9 @@
 # Economics
 
+### Notes
+* Most economics is speculation without stakes.
+
 * Adam Smith: [An Inquiry into the Nature and Causes of the Wealth of Nations](https://www.gutenberg.org/ebooks/38194) and [The Theory of Moral Sentiments](https://en.wikisource.org/wiki/The_Theory_of_Moral_Sentiments)
-* [On the Principles of Political Economy and Taxation]() by David Ricardo
 * [The Law](http://bastiat.org/) by Frédéric Bastiat
 * [Economics in One Lesson](https://archive.org/details/HenryHazlittEconomicsInOneLesson) by Henry Hazlitt
 * [I, Pencil: My Family Tree](https://www.econlib.org/library/Essays/rdPncl.html) by Leonard E. Read
