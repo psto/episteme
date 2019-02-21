@@ -19,6 +19,8 @@
 * [how2](https://github.com/santinic/how2) - stackoverflow from the terminal.
 * [npm](https://www.npmjs.com/) - package manager for JavaScript and the world’s largest software registry.
 * [ddgr](https://github.com/jarun/ddgr) - search DuckDuckGo from the command line.
+* [mutt](http://www.mutt.org) - terminal email client.
+* [thefuck](https://github.com/nvbn/thefuck) corrects errors in previous console commands.
 
 ### Learn the Command Line
 
