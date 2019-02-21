@@ -2,16 +2,22 @@
 
 >  "All models are wrong, but some are useful". 
 
-### Notes
+### Thoughts
 * Most economics is speculation without stakes.
 * Observe the underlying incentives.
   * Who profits the most?
   * Who suffers the most consequences directly from one’s actions?
   * How to (re)align the incentive structures?
+* There is always an opportunity cost (even if good things happen). Always ask:
+  * "What is the trade-off?"
+  * "Under what conditions would my idea be a bad idea?"
+* The demand curve slopes downward: if something becomes more expensive you do less of it.
+* Markets work when both parties benefit from a trade.
+* Understanding the price system tell us what ends up where doing what.
 * Leave small crises to resolve themselves. Step in for huge ones.
 * Debt is not the answer. It compounds bureaucrats problems.
   * Private debt shouldn't become public debt. Taxpayers shouldn't pay for bailouts.
-* Decentralised systems withstand more than centralised systems. 
+* Decentralised systems withstand more than centralised systems.
 
 ### What I enjoyed reading
 * Adam Smith: [An Inquiry into the Nature and Causes of the Wealth of Nations](https://www.gutenberg.org/ebooks/38194) and [The Theory of Moral Sentiments](https://en.wikisource.org/wiki/The_Theory_of_Moral_Sentiments)
