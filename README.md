@@ -14,6 +14,9 @@ You can find more of my writing on my [personal page](https://github.com/psto/ep
 
 I sometimes write `code` and share it on [github](https://github.com/psto/episteme/tree/9bc69528c2cbd2c1f822f5b6fd39d3c7490ab393/www.github.com/psto/README.md).
 
+## More wikis
+Check out [other wikis](https://github.com/RichardLitt/meta-knowledge#readme) and make your own.
+
 ## Contributing
 
 Found a mistake? [Contact me](mailto:piotrstojanow@gmail.com?subject=I%20found%20a%20mistake%20on%20your%20wiki!) or open a [github issue](https://github.com/psto/episteme/issues).
