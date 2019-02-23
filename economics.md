@@ -11,11 +11,18 @@
 * There is always an opportunity cost (even if good things happen). Always ask:
   * "What is the trade-off?"
   * "Under what conditions would my idea be a bad idea?"
+* Politicians/bureaucrats are incentives to practice first-order thinking (anticipating the immediate results of their actions/policy). It's what gets them re-elected.
+  * By "solving" one problem that way they create a bigger one down the road. They compound problems.
+  * Solution: solve for the long term. Practice second-order and n-th order thinking.
+    * "What are the consequences in 10 hours? 10 months? 10 Years? 100 years?"
 * The demand curve slopes downward: if something becomes more expensive you do less of it.
 * Markets work when both parties benefit from a trade.
 * Understanding the price system tell us what ends up where doing what.
+* The more growth you have, the bigger your margin of error. When in doubt optimize for growth.
+  * "What actions can I take now that will produce compounding returns?"
+  * "Am I on a track where my knowledge compounds?"
 * Leave small crises to resolve themselves. Step in for huge ones.
-* Debt is not the answer. It compounds bureaucrats problems.
+* Debt is easy, but it's not the answer. Bureaucrats love it: no one gets fired for adding more debt.
   * Private debt shouldn't become public debt. Taxpayers shouldn't pay for bailouts.
 * Decentralised systems withstand more than centralised systems.
 
