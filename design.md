@@ -1,7 +1,9 @@
 # Design
 
-> “Principles of design:   
-> 1. Use both knowledge in the world and knowledge in the head.   
+## Design
+
+> “Principles of design:  
+> 1. Use both knowledge in the world and knowledge in the head.  
 > 2. Simplify the structure of tasks.  
 > 3. Make things visible: bridge gulfs between Execution and Evaluation.  
 > 4. Get the mappings right.  
@@ -10,7 +12,7 @@
 > 7. When all else fails, standardize.”  
 > ―Donald A. Norman, The Design of Everyday Things
 
-# Links
+## Links
 
 * [Good Flag, Bad Flag](https://nava.org/good-flag-bad-flag/) by Ted Kaye - a short booklet on designing flags using 5 principles.
 * [UI Design Do’s and Don’ts](https://developer.apple.com/design/tips/) by Apple

@@ -1,5 +1,7 @@
 # JavaScript
 
+## JavaScript
+
 > “Any application that can be written in JavaScript, will eventually be written in JavaScript.” — Jeff Atwood
 
 ### Quick guides to get started
@@ -30,7 +32,7 @@
 * [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read) by Reg Braithwaite.
 * [JSbooks](https://jsbooks.revolunet.com/) - links to more free JS books.
 
-# Links
+## Links
 
 * [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden) - a collection of the most quirky parts of JavaScript.
 * [33 concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts#readme)

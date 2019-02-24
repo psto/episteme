@@ -1,5 +1,7 @@
 # CLI
 
+## CLI
+
 ### Command line tools I love
 
 * [neovim](https://github.com/neovim/neovim) is my default [text-editor](https://wiki.stojanow.com/text-editors).
@@ -32,7 +34,7 @@
 * [Shell Style Guide](https://google.github.io/styleguide/shell.xml) by Paul Armstrong
 * [The Bash Hackers Wiki](https://wiki.bash-hackers.org) - human-readable documentation.
 
-# Links
+## Links
 
 * [Awesome Command Line Utilities](https://github.com/learn-anything/command-line-tools)
 * [r/commandline](https://www.reddit.com/r/commandline/) - for questions, tips, and interesting programs.

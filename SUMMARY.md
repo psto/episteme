@@ -37,4 +37,6 @@
 * [Research papers](research-papers.md)
 * [Talks](talks.md)
 * [Economics](economics.md)
+* [Short Stories](short-stories.md)
+* [History](history.md)
 
