@@ -88,6 +88,8 @@ I am guilty of falling for the buzz around new books. However, I follow a few ru
 ### History
 
 * The Lessons of History by Will Durant
+* The History of the Peloponnesian War by Thucydides
+* Plutarch's Lives by Plutarch
 * Genghis Khan and the Making of the Modern World by Jack Weatherford
 * The Ascent of Money: A Financial History of the World by Niall Ferguson
 * The History of Money by Jack Weatherford
