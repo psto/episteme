@@ -33,8 +33,10 @@
 * [I, Pencil: My Family Tree](https://www.econlib.org/library/Essays/rdPncl.html) by Leonard E. Read
 * [The Use of Knowledge in Society"](https://www.econlib.org/library/Essays/hykKnw.html) by Friedrich A. Hayek
 * [Charlie Munger: Academic Economics — Strengths and Weaknesses, after Considering Interdisciplinary Needs](https://fs.blog/2015/03/charlie-munger-academic-economics/)
+* [More books I recommend](https://wiki.stojanow.com/books#economics).
 
 # Links
+* [Economic podcasts I listen to](https://wiki.stojanow.com/podcasts#economics).
 * [Econlib](https://www.econlib.org/cee/) The Library of Economics and Liberty.
 * [The Economics of Seinfeld](http://yadayadayadaecon.com/) - using Seinfeld scenes to make economic concepts come alive.
 * [r/Economics](https://www.reddit.com/r/Economics) suggested [blogs](https://www.reddit.com/r/Economics/wiki/blogs) and [reading list](https://www.reddit.com/r/Economics/wiki/reading)
