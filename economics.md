@@ -1,7 +1,5 @@
 # Economics
 
-## Economics
-
 > "All models are wrong, but some are useful".
 
 ### Thoughts
@@ -27,6 +25,11 @@
 * Leave small crises to resolve themselves. Step in for huge ones.
 * Debt is easy, but it's not the answer. Bureaucrats love it: no one gets fired for adding more debt.
   * Private debt shouldn't become public debt. Taxpayers shouldn't pay for bailouts.
+* Crony capitalism is rent-seeking as a service. Warning signs:
+  * Wealth is seen as a zero-sum game.
+  * Wanting economic gain without any real risk.
+  * High positions are equated with wealth, prestige and status.
+  * Competition is seen as inconvenient and battled with special permits, grants, tax breaks.
 * Decentralised systems withstand more than centralised systems.
 
 ### What I enjoyed reading
@@ -39,7 +42,7 @@
 * [Charlie Munger: Academic Economics — Strengths and Weaknesses, after Considering Interdisciplinary Needs](https://fs.blog/2015/03/charlie-munger-academic-economics/)
 * [More books I recommend](https://wiki.stojanow.com/books#economics).
 
-## Links
+# Links
 
 * [Economic podcasts I listen to](https://wiki.stojanow.com/podcasts#economics).
 * [Econlib](https://www.econlib.org/cee/) The Library of Economics and Liberty.
