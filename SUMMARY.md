@@ -39,4 +39,7 @@
 * [Economics](economics.md)
 * [Short Stories](short-stories.md)
 * [History](history.md)
+* [Protocols](protocols/README.md)
+  * [Dat](protocols/dat.md)
+* [Meditation](meditation.md)
 

@@ -1,5 +1,7 @@
 # Economics
 
+## Economics
+
 > "All models are wrong, but some are useful".
 
 ### Thoughts
@@ -42,7 +44,7 @@
 * [Charlie Munger: Academic Economics — Strengths and Weaknesses, after Considering Interdisciplinary Needs](https://fs.blog/2015/03/charlie-munger-academic-economics/)
 * [More books I recommend](https://wiki.stojanow.com/books#economics).
 
-# Links
+## Links
 
 * [Economic podcasts I listen to](https://wiki.stojanow.com/podcasts#economics).
 * [Econlib](https://www.econlib.org/cee/) The Library of Economics and Liberty.
