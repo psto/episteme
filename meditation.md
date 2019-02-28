@@ -3,15 +3,17 @@
 ### Thoughts
 * We are always in problem-solving mode. Even when we think we are in the present, we are looking for what'll happen next.
   * Thinking is useful but constantly losing oneself in thought is a nightmare.
+  * We are unaware of the the story we are telling ourselves all day long.
 * Meditation is the practice of running your brain in "debug mode". 
   * Create space between your thoughts by being aware of them.
+  * "We suffer more in imagination than in reality" – Seneca
 * One can't fail at meditation.
 * The practice isn't about staying in focus but coming back into focus.
   * coming back to paying attention to the breath
   * building up an "attention muscle".
 * It's better to ask "how am I relating to what’s happening?" than "what is happening?".
   * How we think about our experience changes the experience.
-* Be kind to yourself. Don't judge.
+* Be kind to yourself.
 * It's not about sitting. Walk around and practice accepting the moment you are in without making judgements.
 
 # Links
