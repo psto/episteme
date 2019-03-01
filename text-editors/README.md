@@ -14,6 +14,7 @@ My [.vimrc](https://github.com/psto/dotfiles/blob/master/init.vim) file.
 * [Interactive vim tutorial](https://www.openvim.com/)
 * [Vim Novice Videos](http://derekwyatt.org/vim/tutorials/novice/) by Derek Wyatt.
 * [Vimcasts](http://vimcasts.org/episodes/archive/) learn essential vim skills by Drew Neil.
+* [Vim anti-patterns](https://sanctum.geek.nz/arabesque/vim-anti-patterns/) - what not to do in vim.
 * [vim\_talk\_notes](https://github.com/r00k/vim_talk_notes) write code faster: expert-level vim by Ben Orenstein
 * [Let Vim do the typing](https://georgebrock.github.io/talks/vim-completion/) and [talk](https://www.youtube.com/watch?v=3TX3kV3TICU) by _\*\*_George Brocklehurst
 * [VimGolf](http://www.vimgolf.com/) pick a challenge, fire up Vim and share the result.
