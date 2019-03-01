@@ -1,6 +1,9 @@
-> "Meditation is one of the greatest arts in life (...) and one cannot possibly learn it from anybody, that is the beauty of it." Jiddu Krishnamurti
+# Meditation
+
+> "Meditation is one of the greatest arts in life \(...\) and one cannot possibly learn it from anybody, that is the beauty of it." Jiddu Krishnamurti
 
 ### Thoughts
+
 * We are always in problem-solving mode. Even when we think we are in the present, we are looking for what'll happen next.
   * Thinking is useful but constantly losing oneself in thought is a nightmare.
   * We are unaware of the the story we are telling ourselves all day long.
@@ -16,6 +19,8 @@
 * Be kind to yourself.
 * It's not about sitting. Walk around and practice accepting the moment you are in without making judgements.
 
-# Links
+## Links
+
 * [Buddhism and Modern Psychology course](https://www.coursera.org/learn/science-of-meditation) - Robert Wright explores the science of Buddhism.
 * [Daily Zen](https://www.dailyzen.com/) a blend of Eastern quotes for each day of the year.
+

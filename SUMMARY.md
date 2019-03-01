@@ -41,5 +41,8 @@
 * [History](history.md)
 * [Protocols](protocols/README.md)
   * [Dat](protocols/dat.md)
+  * [Matrix](protocols/matrix.md)
+  * [MimbleWimble](protocols/mimblewimble.md)
+  * [IPFS](protocols/ipfs.md)
 * [Meditation](meditation.md)
 
