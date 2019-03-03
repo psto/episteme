@@ -8,13 +8,14 @@ Since we are better at giving advice than taking it ourselves, we can hack it by
 
 ## Food for Thought
 
-* [Uncommon Sense by Derek Sivers](https://www.youtube.com/playlist?list=PLBAAC8C0430D64F4D)
-* [How to Get Rich \(without getting lucky\) by Naval](https://twitter.com/naval/status/1002103360646823936) \([thread reader](https://threadreaderapp.com/thread/1002103360646823936.html)\)
+* [Uncommon Sense](https://www.youtube.com/playlist?list=PLBAAC8C0430D64F4D) by Derek Sivers
+* [How to Get Rich \(without getting lucky\)](https://twitter.com/naval/status/1002103360646823936) by Naval \([thread reader](https://threadreaderapp.com/thread/1002103360646823936.html)\)
 * [Patrick Collison's advice](https://patrickcollison.com/advice)
 * Sam Altman: [The days are long but the decades are short](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short), [How To Be Successful](https://blog.samaltman.com/how-to-be-successful)
 * [Paul Graham’s Startup Advice for the Lazy](https://medium.com/swlh/graham-for-the-lazy-51a170dacc86)
 * Nassim Taleb: [Advice given to any young person](https://twitter.com/nntaleb/status/975748062176952322?lang=en), [“Seneca’s Barbell”](https://www.nuggetsofthought.com/2018/04/02/nassim-taleb-senecas-barbell), [I hesitate to give advice because  every  major single piece of advice I was given turned out to be wrong and I am glad I didn’t follow them.](http://fooledbyrandomness.com/AUBCommencement.pdf)
 * Charlie Munger: [Life Advice To Young People](https://www.nuggetsofthought.com/2018/02/18/charlie-mungers-advice-to), [on Getting Rich, Wisdom, Focus, Fake Knowledge and More](https://fs.blog/2017/02/charlie-munger-wisdom/)
+* [Should You Reverse Any Advice You Hear?](https://slatestarcodex.com/2014/03/24/should-you-reverse-any-advice-you-hear/) by Scott Alexander
 
 ## Links
 
