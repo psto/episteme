@@ -1,14 +1,12 @@
 # Privacy
 
-## Privacy
-
 Modern web is a [Panopticon](https://en.wikipedia.org/wiki/Panopticon)'s guard wet dream. We are being tracked by both private and state organizations. Data is the new gold rush and "[Surveillance Capitalism](https://www.faz.net/aktuell/feuilleton/debatten/the-digital-debate/shoshan-zuboff-on-big-data-as-surveillance-capitalism-13152525.html)" is [the biggest game](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2594754) in town.
 
 But "[I have nothing to hide!](https://en.wikipedia.org/wiki/Nothing_to_hide_argument)"
 
 > ["Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say."](https://www.reddit.com/r/IAmA/comments/36ru89/just_days_left_to_kill_mass_surveillance_under/crglgh2/) - Edward Snowden
 
-## What I use
+### What I use
 
 **Browser**: [Firefox](https://www.mozilla.org/kab/firefox/developer/) with [add-ons](https://www.privacytools.io/#addons) + this [config](https://www.privacytools.io/#about_config) and [Tor](https://www.torproject.org/download/download-easy.html.en); [Firefox mobile](https://www.mozilla.org/en-US/firefox/mobile/) and [Tor for android](https://www.torproject.org/projects/torbrowser.html.en#downloads-alpha) with [orbot](https://guardianproject.info/apps/orbot/).
 
@@ -34,6 +32,7 @@ But "[I have nothing to hide!](https://en.wikipedia.org/wiki/Nothing_to_hide_arg
 * [How to encrypt your entire life in less than an hour](https://medium.freecodecamp.org/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3) by Quincy Larson.
 * [Privacy Tools](https://www.privacytools.io/) and [Prism Break](https://prism-break.org/en/) for finding-privacy focused software alternatives.
 * [r/privacy wiki](https://www.reddit.com/r/privacy/wiki/index)
+* [Google-free Android Setup](https://niftylettuce.com/posts/google-free-android-setup/)
 * [A Modest Privacy Protection Proposal](https://medium.com/s/story/a-modest-privacy-protection-proposal-5b47631d7f4c) by Jameson Lopp
 * [Jolly Roger’s Security Guide for Beginners](https://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/)
 * Read up how websites manipulate you into buying, subscribing to stuff you don't need and giving up your privacy: [Deceived by design \(pdf\)](https://fil.forbrukerradet.no/wp-content/uploads/2018/06/2018-06-27-deceived-by-design-final.pd://fil.forbrukerradet.no/wp-content/uploads/2018/06/2018-06-27-deceived-by-design-final.pdf), [darkpatterns.org](https://darkpatterns.org/)
