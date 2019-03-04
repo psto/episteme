@@ -1,5 +1,6 @@
 # Short Stories
-
+ 
+### Some short stories I recommend:
 * [Stories of Your Life and Others ](https://www.goodreads.com/book/show/223380.Stories_of_Your_Life_and_Others) by Ted Chiang, also: [Understand](https://www.goodreads.com/book/show/7234685-understand), [The Lifecycle of Software Objects](https://subterraneanpress.com/magazine/fall_2010/fiction_the_lifecycle_of_software_objects_by_ted_chiang), [The Merchant and the Alchemist's Gate](https://bbs.pku.edu.cn/attach/80/a2/80a255d7a8fc70db/Ted_Chiang.pdf), [The Truth of Fact, the Truth of Feeling](https://subterraneanpress.com/magazine/fall_2013/the_truth_of_fact_the_truth_of_feeling_by_ted_chiang), [Exhalation](http://www.lightspeedmagazine.com/fiction/exhalation/)
 * [Ficciones](https://www.goodreads.com/book/show/426504.Ficciones) by Jorge Luis Borges
 * [The Egg](http://www.galactanet.com/oneoff/theegg_mod.html) by Andy Weir

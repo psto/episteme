@@ -1,7 +1,5 @@
 # Courses
 
-## Courses
-
 ## Some courses I've enjoyed
 
 * [Learning to Learn by Barbara Oakley](https://www.coursera.org/learn/learning-how-to-learn)
@@ -26,4 +24,3 @@
 * [Computer Science](https://github.com/ossu/computer-science) - path to a free self-taught education in Computer Science.
 * [Take at least one good Statistics course](https://www.reddit.com/r/LifeProTips/comments/4lshg6/lpt_take_at_least_one_good_statistics_course/d3q4l74/)
 * [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
-

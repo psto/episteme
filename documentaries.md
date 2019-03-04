@@ -1,7 +1,5 @@
 # Documentaries
 
-## Documentaries
-
 * [The Century of the Self \(2002\)](https://www.imdb.com/title/tt0432232/)
 * [Planet Earth \(2006\)](https://www.imdb.com/title/tt0795176/) and [Planet Earth II \(2016\)](https://www.imdb.com/title/tt5491994/)
 * [The King of Kong: A Fistful of Quarters \(2007\)](https://www.imdb.com/title/tt0923752/)
@@ -23,4 +21,3 @@
 * [Wild Wild Country \(2018\)](https://www.imdb.com/title/tt7768848/)
 * [Abstract: The Art of Design](https://www.imdb.com/title/tt6333098/)
 * [The Story of Film: An Odyssey](https://www.imdb.com/title/tt2044056/)
-

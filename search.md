@@ -1,7 +1,5 @@
 # Search
 
-## Search
-
 Searching is an essential skill. Yet for something we do every day we spend little time learning how to do it effectively. It's funny how search is becoming better faster than we become better at searching.
 
 ## Links

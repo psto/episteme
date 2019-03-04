@@ -1,7 +1,5 @@
 # TV Series
 
-## TV Series
-
 ## Favourite Series
 
 * [Rick and Morty](https://www.imdb.com/title/tt2861424/)

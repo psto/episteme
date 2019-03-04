@@ -1,7 +1,5 @@
 # Git
 
-## Git
-
 ### "Gitting" started
 
 * [Git - the simple guide](https://rogerdudler.github.io/git-guide/)

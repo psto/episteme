@@ -1,7 +1,5 @@
 # Communities
 
-## Communities
-
 * [Hacker News](https://news.ycombinator.com/)
 * [Slate Star Codex](https://slatestarcodex.com/) and [r/SlateStarCodex](https://www.reddit.com/r/slatestarcodex/)
 * [LessWrong](https://www.lesswrong.com/)

@@ -8,6 +8,6 @@
   * allowing people, services and devices to easily communicate with each other.
   * empowering users to own and control their data and select the services and vendors they want to use.
 
-# Links
+## Links
 * [Riot](https://about.riot.im/) - universal secure chat app (built on Matrix) entirely under your control (you own your data). Stop juggling different apps for different teams, suppliers and networks by bridging other services, like Slack and IRC.
 * [What is Matrix?](https://matrix.org/docs/guides/faq.html#what-is-matrix)

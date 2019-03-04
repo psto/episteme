@@ -20,4 +20,3 @@ Since we are better at giving advice than taking it ourselves, we can hack it by
 ## Links
 
 * [Ask Ariely column](http://danariely.com/tag/advice-column/)
-

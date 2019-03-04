@@ -1,7 +1,5 @@
 # CLI
 
-## CLI
-
 ### Command line tools I love
 
 * [neovim](https://github.com/neovim/neovim) is my default [text-editor](https://wiki.stojanow.com/text-editors).
@@ -38,4 +36,3 @@
 
 * [Awesome Command Line Utilities](https://github.com/learn-anything/command-line-tools)
 * [r/commandline](https://www.reddit.com/r/commandline/) - for questions, tips, and interesting programs.
-

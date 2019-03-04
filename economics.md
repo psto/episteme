@@ -1,7 +1,5 @@
 # Economics
 
-## Economics
-
 > "All models are wrong, but some are useful".
 
 ### Thoughts

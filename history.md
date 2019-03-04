@@ -1,7 +1,5 @@
 # History
 
-## History
-
 ## Links
 
 * [History book I've enjoyed](https://wiki.stojanow.com/books#history).

@@ -1,7 +1,5 @@
 # Talks
 
-## Talks
-
 ### Favourite Talks
 
 * [The Psychology of Human Misjudgement](https://www.youtube.com/watch?v=pqzcCfUglws) by Charlie Munger \([transcript](https://web.archive.org/web/20151004200748/http://law.indiana.edu/instruction/profession/doc/16_1.pdf)\)
@@ -21,4 +19,3 @@
 * [TechYaks](https://techyaks.com) - over 80K tech talks ranked algorithmically to showcase the best presentations.
 * [Awesome Talks](https://github.com/JanVanRyswyck/awesome-talks)
 * [Awesome Speaking](https://github.com/matteofigus/awesome-speaking) - resources about public speaking.
-

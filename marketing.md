@@ -1,7 +1,5 @@
 # Marketing
 
-## Marketing
-
 > "Most businesses actually get zero distribution channels to work. Poor distribution — not product — is the number one cause of failure. If you can get even a single distribution channel to work, you have great business. If you try for several but don’t nail one, you’re finished. So it’s worth thinking really hard about finding the single best distribution channel." - Peter Thiel
 
 **Warning**: _marketing is not a panacea for crappy products or a solution to a problem that doesn't exist_.

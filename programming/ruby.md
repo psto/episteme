@@ -1,7 +1,5 @@
 # Ruby
 
-## Ruby
-
 > Often people, especially computer engineers, focus on the machines. They think, "By doing this, the machine will run faster. By doing this, the machine will run more effectively. By doing this, the machine will something something something." They are focusing on machines. But in fact we need to focus on humans, on how humans care about doing programming or operating the application of the machines. We are the masters. They are the slaves. —Yukihiro Matsumoto
 
 ### Get started with Ruby

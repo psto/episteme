@@ -2,7 +2,7 @@
 
 Before installing a plugin try to do it the pure Vim way.
 
-#### Utility
+### Utility
 
 * [vim-surround](https://github.com/tpope/vim-surround) - quoting/parenthesizing made simple.
 * [vim-fugitive](https://github.com/tpope/vim-fugitive) - a Git wrapper.
@@ -18,12 +18,12 @@ Before installing a plugin try to do it the pure Vim way.
 * \*\*\*\*[deoplete.nvim](https://github.com/Shougo/deoplete.nvim) - dark powered asynchronous completion framework for neovim/Vim8.
 * \*\*\*\*[NeoSolarized](https://github.com/icymind/NeoSolarized) - a fixed solarized colorscheme for better truecolor support.
 
-#### HTML
+### HTML
 
 * [emmet-vim](https://github.com/mattn/emmet-vim) - support for expanding HTM abbreviations.
 * \*\*\*\*[vim-pug](https://github.com/digitaltoad/vim-pug) - template engine syntax highlighting and indention
 
-#### Javascript
+### Javascript
 
 * \*\*\*\*[vim-javascript-syntax](https://github.com/jelera/vim-javascript-syntax) - enhanced javascript syntax file for Vim.
 * [vim-node](https://github.com/moll/vim-node) **-** tools and environment for developing with Node.js
@@ -31,12 +31,12 @@ Before installing a plugin try to do it the pure Vim way.
 * \*\*\*\*[deoplete-ternjs](https://github.com/carlitux/deoplete-ternjs) - deoplete.nvim source for javascript.
 * \*\*\*\*[jspc.vim](https://github.com/othree/jspc.vim) - a completion function for function parameters, such as event names, crypto algorithms, and common locales.
 
-#### Ruby
+### Ruby
 
 * [Vim-Ruby](https://github.com/vim-ruby) - editing and compiling Ruby within Vim,
 * [vim-rails](https://github.com/tpope/vim-rails) - Ruby on Rails power tools.
 
-#### **Writing**
+### **Writing**
 
 * \*\*\*\*[goyo.vim](https://github.com/junegunn/goyo.vim) - distraction-free writing.
 * \*\*\*\*[limelight.vim](https://github.com/junegunn/limelight.vim) - hyperfocus-writing.
