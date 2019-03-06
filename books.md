@@ -36,6 +36,7 @@ I am guilty of falling for the buzz around new books. However, I follow a few ru
 * Anything You Want by Derek Sivers
 * Rework by Jason Fried and David Heinemeier Hansson
 * Zero to One by Peter Thiel
+* The Antidote: Happiness for People Who Can't Stand Positive Thinking by Oliver Burkeman \(my [notes](https://stojanow.com/the-antidote/)\).
 
 ## Other Recommendations
 
@@ -106,7 +107,7 @@ I am guilty of falling for the buzz around new books. However, I follow a few ru
 * Breakthrough Advertising by Eugene M. Schwartz
 * The Ultimate Sales Letter: Attract New Customers. Boost Your Sales by Dan S. Kennedy
 * The 22 Immutable Laws of Marketing: Violate Them at Your Own Risk by Al Ries
-* Ca$hvertising: How to Use More Than 100 Secrets of Ad-Agency Psychology to Make BIG MONEY Selling Anything to Anyone by 
+* Ca$hvertising: How to Use More Than 100 Secrets of Ad-Agency Psychology to Make BIG MONEY Selling Anything to Anyone by
 * Badass: Making Users Awesome by Kathy Sierra
 * Traction: A Startup Guide to Getting Customers by Gabriel Weinberg
 * Hooked: How to Build Habit-Forming Products by Nir Eyal
@@ -131,7 +132,7 @@ I am guilty of falling for the buzz around new books. However, I follow a few ru
 * You Don't Know JS series by Kyle Simpson \([read online](https://github.com/getify/You-Dont-Know-JS)\)
 * JavaScript Allongéby Reginald Braithwaite \([read online](https://leanpub.com/javascript-allonge/read)\)
 * Speaking JavaScript by Axel Rauschmayer \([read online](http://speakingjs.com/)\)
-* Functional JavaScript by Michael Fogus 
+* Functional JavaScript by Michael Fogus
 * The Principles of Object-Oriented JavaScript by Nicholas Zakas
 * Ruby on Rails Tutorial: Learn Web Development with Rails by Michael Hartl \([read online](https://www.railstutorial.org/book)\)
 * Practical Object Oriented Design in Ruby by Sandi Metz
@@ -198,4 +199,3 @@ I am guilty of falling for the buzz around new books. However, I follow a few ru
 * [Speed Reading is Bullshit](https://medium.com/the-mission/speed-reading-is-bullshit-f5acbee7f59e)
 * [Hacker News Books](https://hackernewsbooks.com/) - the top books mentioned in comments on [Hacker News](https://news.ycombinator.com).
 * [A taxonomy of ways books change your worldview](https://juliagalef.com/2017/01/06/a-taxonomy-of-books-that-change-your-worldview/) by Julia Galef
-
