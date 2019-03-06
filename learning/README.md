@@ -1,6 +1,6 @@
 # Learning
 
-> Human beings, who are almost unique in having the _\*\*_ability to learn from the experience of others, are also remarkable for their apparent disinclination to do so.
+> Human beings, who are almost unique in having the \_\*\*\_ability to learn from the experience of others, are also remarkable for their apparent disinclination to do so.
 >
 > * Douglas Adams, Last Chance to See
 

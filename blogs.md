@@ -19,3 +19,4 @@ I use [inoreader](https://inoreader.com) to stay up date with my subscriptions.
 * [Nassim Nicholas Taleb](https://medium.com/@nntaleb)
 * [Benedict Evans](https://www.ben-evans.com/)
 * [Marginal Revolution by Tyler Cowen and Alexander Tabarrok](https://marginalrevolution.com/)
+

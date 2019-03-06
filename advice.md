@@ -1,6 +1,6 @@
 # Advice
 
-> “In this way you must understand how laughable it is to say, ‘Tell me what to do!’ What advice could I possibly give? No, a far better request is, ‘Train my mind to adapt to any circumstance.’  …In this way, if circumstances take you off script… you won’t be desperate for a new prompting.” —Epictetus, Discourses, 2.2.20b– 1; 24b– 25a
+> “In this way you must understand how laughable it is to say, ‘Tell me what to do!’ What advice could I possibly give? No, a far better request is, ‘Train my mind to adapt to any circumstance.’ …In this way, if circumstances take you off script… you won’t be desperate for a new prompting.” —Epictetus, Discourses, 2.2.20b– 1; 24b– 25a
 
 Most advice is divorced from consequences. Advice is also cheap and lacks skin in the game. We discount advice because we [anticipate more regret from following bad advice than our own plans](https://onlinelibrary.wiley.com/doi/full/10.1002/bdm.2048). That said:
 
@@ -24,3 +24,4 @@ Since we are better at giving advice than taking it ourselves, we can hack it by
 * [Ask Ariely column](http://danariely.com/tag/advice-column/)
 * [Find a fulfilling career that does good](https://80000hours.org/career-guide/) by 80,000 Hours - based on five years of research alongside academics at Oxford.
 * [What Should You Do with Your Life? Directions and Advice](https://guzey.com/personal/what-should-you-do-with-your-life/) by Alexey Guzey
+

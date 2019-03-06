@@ -19,3 +19,4 @@
 * [TechYaks](https://techyaks.com) - over 80K tech talks ranked algorithmically to showcase the best presentations.
 * [Awesome Talks](https://github.com/JanVanRyswyck/awesome-talks)
 * [Awesome Speaking](https://github.com/matteofigus/awesome-speaking) - resources about public speaking.
+
