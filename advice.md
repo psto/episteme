@@ -1,5 +1,7 @@
 # Advice
 
+> “In this way you must understand how laughable it is to say, ‘Tell me what to do!’ What advice could I possibly give? No, a far better request is, ‘Train my mind to adapt to any circumstance.’  …In this way, if circumstances take you off script… you won’t be desperate for a new prompting.” —Epictetus, Discourses, 2.2.20b– 1; 24b– 25a
+
 Most advice is divorced from consequences. Advice is also cheap and lacks skin in the game. We discount advice because we [anticipate more regret from following bad advice than our own plans](https://onlinelibrary.wiley.com/doi/full/10.1002/bdm.2048). That said:
 
 > "Good advice is priceless. Not what you want to hear, but what you need to hear. Not imaginary, but practical. Not based on fear, but on possibility. Not designed to make you feel better, designed to make you better. Seek it out and embrace the true friends that care enough to risk sharing it. I'm not sure what takes more guts—giving it or getting it." [Seth Godin](https://seths.blog/2014/05/good-advice/)

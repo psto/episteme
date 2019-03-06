@@ -23,6 +23,7 @@
 * [Search](search.md)
 * [Psychology](psychology/README.md)
   * [Emotions](psychology/emotions.md)
+  * [Happiness](psychology/happiness.md)
 * [Programming](programming/README.md)
   * [Git](programming/git.md)
   * [JavaScript](programming/javascript.md)
