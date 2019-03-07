@@ -33,6 +33,7 @@
 * [Productivity](productivity.md)
 * [Tools](tools/README.md)
   * [CLI](tools/cli.md)
+  * [IFTTT](tools/IFTTT.md)
 * [News](news.md)
 * [Design](design.md)
 * [Research papers](research-papers.md)
@@ -46,4 +47,3 @@
   * [MimbleWimble](protocols/mimblewimble.md)
   * [IPFS](protocols/ipfs.md)
 * [Meditation](meditation.md)
-
