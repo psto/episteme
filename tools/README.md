@@ -6,7 +6,7 @@
 * [GitBook](https://www.gitbook.com) - create books or documentation. It's also how I render markdown files in this wiki.
 * [GitHub](http://github.com/) and [GitHub pages](https://pages.github.com/) for free hosting.
 * [Jekyll](https://jekyllrb.com/) - transform your plain text into static websites and blogs.
-* [IFTTT](https://ifttt.com/)- automate the boring stuff by getting all your apps and devices talking to each other. 
+* [IFTTT](https://ifttt.com/)- automate the boring stuff by getting all your apps and devices talking to each other \(some [applets I use](https://wiki.stojanow.com/tools/ifttt)\).
 * [transfer.sh](https://transfer.sh/) - easy file sharing from the command line.
 * [Tiny Letter](https://github.com/psto/episteme/tree/bf7fe1e50e6e78b32f167343d2541fc195cb56b8/tinyletter.com) - a free personal newsletter by Mailchimp.
 * [Todo.txt](http://todotxt.org/) from the [command line](https://github.com/todotxt/todo.txt-cli) - simple todo list based on a todo.txt file.
@@ -26,4 +26,3 @@
 * [Uses This](https://usesthis.com/) - asking people from all walks of life what they use to get the job done.
 * [Awesome Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - the best design tools for everything.
 * [Awesome Research Tools](https://github.com/emptymalei/awesome-research) - a curated list of tools to help you with research.
-
