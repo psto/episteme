@@ -23,4 +23,5 @@
 
 * [Buddhism and Modern Psychology course](https://www.coursera.org/learn/science-of-meditation) - Robert Wright explores the science of Buddhism.
 * [Daily Zen](https://www.dailyzen.com/) a blend of Eastern quotes for each day of the year.
+* [This Is How To Use Mindfulness To Make Better Decisions](https://www.bakadesuyo.com/2017/12/make-better-decisions/)
 

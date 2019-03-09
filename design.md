@@ -18,6 +18,7 @@
 * [Brand Style Guide Examples](https://saijogeorge.com/brand-style-guide-examples/) hand-picked collection of brand style guide examples, pattern libraries and design manuals for inspiration.
 * [The Front-End Design Checklist](https://frontenddesignchecklist.io)
 * [A Comprehensive Guide To Web Design](https://www.smashingmagazine.com/2017/11/comprehensive-guide-web-design/) by Nick Babich
+* [The Psychologist’s View of UX Design](http://uxmag.com/articles/the-psychologists-view-of-ux-design)
 * [Design Languages](https://design-languages.com/) - discover the best design languages.
 * [Awesome Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#readme) the best design tools for everything.
 * [Color Hunt](https://colorhunt.co/) - hand-picked color palettes for designers and artists.
