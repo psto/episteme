@@ -24,5 +24,5 @@ Found a mistake? [Contact me](mailto:piotrstojanow@gmail.com?subject=I%20found%2
 
 ## Say Hi
 
-On twitter: [@piotrstojanow](https://twitter.com/piotrstojanow) or send me an [email](mailto:piotrstojanow@gmail.com?subject=Hello%20from%20the%20wiki!).
+On twitter: [@piotrstojanow](https://twitter.com/piotrstojanow) or send me an [email](https://stojanow.com/contact/).
 
