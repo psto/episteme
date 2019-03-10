@@ -12,7 +12,7 @@ But "[I have nothing to hide!](https://en.wikipedia.org/wiki/Nothing_to_hide_arg
 
 **Text messaging**: [Signal](https://signal.org/).
 
-**Email**: [Mailpile](https://www.mailpile.is/) on pc and [K-9 Mail](https://github.com/k9mail/k-9/releases) on mobile. I've changed my email account to [protonmail](https://protonmail.com/), but I'm still forced to use gmail sometimes.
+**Email**: [Mailpile](https://www.mailpile.is/) on pc and [K-9 Mail](https://github.com/k9mail/k-9/releases) on mobile. I've changed my email accounts to [protonmail](https://protonmail.com/) and [tutanota](https://tutanota.com/), but I'm still forced to use gmail sometimes.
 
 **Search**: I'm a [DuckDuckGo](https://duckduckgo.com/) user since 2011 and it's getting better and better.
 
@@ -22,7 +22,9 @@ But "[I have nothing to hide!](https://en.wikipedia.org/wiki/Nothing_to_hide_arg
 
 **Password Manager**: [KeePassXC](https://keepassxc.org/)
 
-**Online Communication**: [Keybase](https://keybase.io/), you can find my info [here](https://keybase.io/psto).
+**2FA**: [FreeOTP](https://f-droid.org/en/packages/org.fedorahosted.freeotp/) for two-factor authentication.
+
+**Online Communication**: [Keybase](https://keybase.io/) \(you can find my info [here](https://keybase.io/psto)\) and [Riot](https://about.riot.im).
 
 **VPN**: [ProtonVPN](https://protonvpn.com/)
 
@@ -35,8 +37,9 @@ But "[I have nothing to hide!](https://en.wikipedia.org/wiki/Nothing_to_hide_arg
 * [Google-free Android Setup](https://niftylettuce.com/posts/google-free-android-setup/)
 * [A Modest Privacy Protection Proposal](https://medium.com/s/story/a-modest-privacy-protection-proposal-5b47631d7f4c) by Jameson Lopp
 * [Jolly Roger’s Security Guide for Beginners](https://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/)
+* [The Hated One](https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q/featured) a privacy focused youtube channel.
 * Read up how websites manipulate you into buying, subscribing to stuff you don't need and giving up your privacy: [Deceived by design \(pdf\)](https://fil.forbrukerradet.no/wp-content/uploads/2018/06/2018-06-27-deceived-by-design-final.pd://fil.forbrukerradet.no/wp-content/uploads/2018/06/2018-06-27-deceived-by-design-final.pdf), [darkpatterns.org](https://darkpatterns.org/)
 * [I've Got Nothing to Hide' and Other Misunderstandings of Privacy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565&) by Daniel J. Solove
 * More on Surveillance Capitalism: [Wikipedia](https://en.wikipedia.org/wiki/Surveillance_capitalism), [The Age of Surveillance Capitalism](https://www.goodreads.com/book/show/26195941-the-age-of-surveillance-capitalism) book
 * Another firefox [config](https://gist.github.com/0XDE57/fbd302cef7693e62c769).
-
+* [Turn It On](https://www.turnon2fa.com/) - guides to turn on two-factor authentication (2FA) on your accounts.
