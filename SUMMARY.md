@@ -5,6 +5,7 @@
   * [Learning How to Learn](learning/learning-how-to-learn.md)
   * [The Feynman Technique](learning/the-feynman-technique.md)
   * [How to remember stuff?](learning/how-to-remember-stuff.md)
+  * [Language Learning](learning/language-learning.md)
 * [Habits](habits.md)
 * [Books](books.md)
 * [Blogs](blogs.md)

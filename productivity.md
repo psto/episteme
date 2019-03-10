@@ -1,5 +1,7 @@
 # Productivity
 
+> "People tend to abandon the good system they’ll follow in search of the perfect system that they will quit." ―Tim Ferriss
+
 ### Notes
 
 * On distractions:

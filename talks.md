@@ -14,6 +14,9 @@
 * [The mother of all demos](https://www.youtube.com/watch?v=yJDv-zdhzMY) by Douglas Engelbart
 * [How The Economic Machine Works](https://www.youtube.com/watch?v=PHe0bXAIuk0) by Ray Dalio
 
+### Interesting
+* [What Bodies Think About: Bioelectric Computation Outside the Nervous System](https://www.youtube.com/watch?v=RjD1aLm4Thg) by Prof. Michael Levin
+
 ## Links
 
 * [TechYaks](https://techyaks.com) - over 80K tech talks ranked algorithmically to showcase the best presentations.
