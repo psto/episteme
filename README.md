@@ -20,9 +20,8 @@ Check out [other wikis](https://github.com/RichardLitt/meta-knowledge#readme) an
 
 ## Contributing
 
-Found a mistake? [Contact me](mailto:piotrstojanow@gmail.com?subject=I%20found%20a%20mistake%20on%20your%20wiki!) or open a [github issue](https://github.com/psto/episteme/issues).
+Found a mistake? [Contact me](https://stojanow.com/contact/) or open a [github issue](https://github.com/psto/episteme/issues).
 
 ## Say Hi
 
 On twitter: [@piotrstojanow](https://twitter.com/piotrstojanow) or send me an [email](https://stojanow.com/contact/).
-
