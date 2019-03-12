@@ -36,6 +36,7 @@
   * [Git](programming/git.md)
   * [JavaScript](programming/javascript.md)
   * [Ruby](programming/ruby.md)
+  * [Cheatsheets](cheatsheets.md)
 * [Text Editor](text-editors/README.md)
   * [Vim Plugins](text-editors/vim-plugins.md)
 * [News](news.md)

@@ -35,5 +35,5 @@
 ## Links
 
 * [Awesome Command Line Utilities](https://github.com/learn-anything/command-line-tools)
+* [Awesome Shell](https://github.com/alebcay/awesome-shell)
 * [r/commandline](https://www.reddit.com/r/commandline/) - for questions, tips, and interesting programs.
-
