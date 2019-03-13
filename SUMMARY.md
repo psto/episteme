@@ -24,6 +24,7 @@
 * [Meditation](meditation.md)
 * [Tools](tools/README.md)
   * [CLI](tools/cli.md)
+    * [fish](tools/fish.md)
   * [IFTTT](tools/IFTTT.md)
 * [Search](search.md)
 * [Movies](movies.md)
@@ -51,3 +52,4 @@
   * [IPFS](protocols/ipfs.md)
 * [Questions](questions.md)
 * [Poems](poems.md)
+* [YouTube](youtube.md)
