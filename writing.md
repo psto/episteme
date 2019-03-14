@@ -21,3 +21,4 @@ The best writing advice:
 * [Writing Briefly](http://www.paulgraham.com/writing44.html), [Write Like You Talk](http://www.paulgraham.com/talk.html) by Paul Graham
 * [Story Structure 101: Super Basic Shit](https://channel101.fandom.com/wiki/Story_Structure_101:_Super_Basic_Shit) by Dan Harmon
 * [Brandon Sanderson - 318R Lectures](https://www.youtube.com/playlist?list=PLH3mK1NZn9QqOSj3ObrP3xL8tEJQ12-vL) - [notes](https://docs.google.com/document/d/1XpHaeK464xN2aqQm3QipYWbawuabEoCjg4HUe5CMkRo/edit)
+* [Riding The Writing Wave](https://www.perell.com/blog/writing) by David Perell

@@ -7,4 +7,4 @@ Mimblewimble uses [elliptic-curve cryptography](https://en.wikipedia.org/wiki/El
 * [MIMBLEWIMBLE](https://scalingbitcoin.org/papers/mimblewimble.txt) by Tom Elvis Jedusor
 * [Mimblewimble Explained](https://www.mycryptopedia.com/mimblewimble-explained/)
 * [Introduction to MimbleWimble and Grin](https://github.com/mimblewimble/grin/blob/master/doc/intro.md)
-
+* [Circle Research on MimbleWimble](https://www.circle.com/en/research/mimblewimble)

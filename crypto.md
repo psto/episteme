@@ -46,4 +46,6 @@ That's it. Now comes the tough part. You have to read more. Everyday.
 * [Crypto podcasts I recommend](https://wiki.stojanow.com/podcasts#crypto)
 * [Blockchain demo](https://blockchaindemo.io/) - a visual demo of blockchain technology.
 * [Coin demo](https://coindemo.io/) - a cryptocurrency demo.
-
+* [Privacy in Bitcoin](https://en.bitcoin.it/wiki/Privacy)
+* [check out MimbleWimble](https://wiki.stojanow.com/protocols/mimblewimble)
+* [Privacy and Cryptocurrency, Part I: How Private is Bitcoin?](https://medium.com/human-rights-foundation-hrf/privacy-and-cryptocurrency-part-i-how-private-is-bitcoin-e3a4071f8fff)

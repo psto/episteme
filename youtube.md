@@ -1,7 +1,7 @@
 # YouTube
 
 ### YouTube Tips
-* Use youtube without falling into recommended videos sink hole: DF YouTube (Distraction Free) for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/df-youtube/) and [Chrome](https://chrome.google.com/webstore/detail/df-tube-distraction-free/mjdepdfccjgcndkmemponafgioodelna?hl=en)
+* Use youtube without falling into recommended videos sinkhole: DF YouTube (Distraction Free) for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/df-youtube/) and [Chrome](https://chrome.google.com/webstore/detail/df-tube-distraction-free/mjdepdfccjgcndkmemponafgioodelna?hl=en)
 * Watch videos in 2x/3x speed (it takes some time to get used to).
   * `Shift + >` increase playback speed (`Shift + <` to decrease); max 2x speed.
   * or Video Speed Controller for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/videospeed/) and [Chrome](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en)

@@ -8,6 +8,7 @@
 * [Jekyll](https://jekyllrb.com/) - transform your plain text into static websites and blogs (I deploy to GitHub using [Travis CI](https://travis-ci.org/))
 * [IFTTT](https://ifttt.com/)- automate the boring stuff by getting all your apps and devices talking to each other \(some [applets I use](https://wiki.stojanow.com/tools/ifttt)\).
 * [transfer.sh](https://transfer.sh/) - easy file sharing from the command line.
+* [Firefox Send](https://send.firefox.com/) with [ffsend](https://github.com/timvisee/ffsend) for simple and private file sharing.
 * [Tiny Letter](https://github.com/psto/episteme/tree/bf7fe1e50e6e78b32f167343d2541fc195cb56b8/tinyletter.com) - a free personal newsletter by Mailchimp.
 * [Todo.txt](http://todotxt.org/) from the [command line](https://github.com/todotxt/todo.txt-cli) - simple todo list based on a todo.txt file.
 * [Hemingway App](https://hemingwayapp.com/) makes your writing bold and clear.
@@ -20,6 +21,7 @@
 * [Dropbox](https://www.dropbox.com) with [Cryptomator](https://cryptomator.org/) encryption.
 * [paletton](http://paletton.com) and [color calculator](https://www.sessions.edu/color-calculator/) - pick a color scheme.
 * [Kill the Newsletter!](https://www.kill-the-newsletter.com) - convert email newsletters into Atom feeds.
+* [Kill sticky headers](https://alisdair.mcdiarmid.org/kill-sticky-headers/) - a bookmarklet to remove annoying sticky headers.
 
 ## Links
 
