@@ -2,9 +2,9 @@
 
 > “I would rather have questions that can't be answered than answers that can't be questioned.” ―Richard Feynman
 
-> "In all affairs it's a healthy thing now and then to hang a question mark on the things you have long taken for granted." ―Bertrand Russell 
+> "In all affairs it's a healthy thing now and then to hang a question mark on the things you have long taken for granted." ―Bertrand Russell
 
-> “To ask the 'right' question is far more important than to receive the answer. The solution of a problem lies in the understanding of the problem; the answer is not outside the problem, it is in the problem.” ― Jiddu Krishnamurti,
+> “To ask the 'right' question is far more important than to receive the answer. The solution of a problem lies in the understanding of the problem; the answer is not outside the problem, it is in the problem.” ―Jiddu Krishnamurti
 
 ### Useful questions:
 * When facing a tough situation \(or dealing with [sunk cost](https://en.wikipedia.org/wiki/Sunk_costs)\) use the **wise outsider** question:
@@ -13,14 +13,14 @@
 * To be more productive: "What one task can I do now that will make the rest irrelevant or easy?"
 * Avoiding [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias): "Under what conditions would my idea be a bad idea?"
 * Gaining claritiy: "What is the real truth of the situation that is not yet obvious to me?"
-* When you want different results (in life/business/etc) than everyone else, ask questions no one else has the courage or will to ask. 
-  * "What is currently not possible in my life/industry that if it was possible, would change the game?" 
+* When you want different results (in life/business/etc) than everyone else, ask questions no one else has the courage or will to ask.
+  * "What is currently not possible in my life/industry that if it was possible, would change the game?"
 * "What would your life look like if you measured every decision you made against your future vision?"
-* “What does it mean?” is often impractical. It's better to ask: 
-  * "How can I use it?" 
+* “What does it mean?” is often impractical. It's better to ask:
+  * "How can I use it?"
   * "What can I learn from this?"
 * What is working and what could be working:
-  * "What brings me satisfaction in my life? How can I do more of it?" 
+  * "What brings me satisfaction in my life? How can I do more of it?"
   * "What could I be happy about?"
 * When a question triggers anxiety or fear, ask **kaizen questions** - small, gentle, action-oriented questions:
   * When you are trying to reach a goal, ask yourself every day: "What is one small step I could take toward reaching my goal?"
@@ -32,6 +32,8 @@ The question you most often ask yourself (or others ask you) can either guide or
 
 Seeking the right questions beats seeking answers. Answers are fragile. Questions forge a path. Answers can lead you astray.
 
+> The right question at the right time can change the course of a life, can still a turbulent mind, or heal an angry heart. ―Ryan Holiday
+
 ## Links
 * [The Six Types of Socratic Questions](http://www.umich.edu/~elements/5e/probsolv/strategy/cthinking.htm)
 * [Relearning the Art of Asking Questions](https://hbr.org/2015/03/relearning-the-art-of-asking-questions)
@@ -39,3 +41,4 @@ Seeking the right questions beats seeking answers. Answers are fragile. Question
 * [Patrick Collison's questions](https://patrickcollison.com/questions)
 * [Gwern's Open Questions](https://www.gwern.net/Questions)
 * [Alexey Guzey Research Ideas](https://guzey.com/personal/research-ideas/)
+* [12 Questions That Will Change Your Life](https://thoughtcatalog.com/ryan-holiday/2017/09/12-questions-that-will-change-your-life/) by Ryan Holiday

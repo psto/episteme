@@ -4,6 +4,7 @@
 * [ES6 cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 * [Asynchronous JavaScript cheatsheet](https://github.com/frontarm/async-javascript-cheatsheet)
 * [node.js cheatsheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/backend/node.js)
+* [Cheatsheet JS](https://github.com/gordonmzhu/cheatsheet-js)
 
 ### Bash
 * [Bash cheatsheet](https://gist.github.com/LeCoupa/122b12050f5fb267e75f)
