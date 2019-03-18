@@ -38,6 +38,7 @@
   * [JavaScript](programming/javascript.md)
   * [Ruby](programming/ruby.md)
   * [Cheatsheets](cheatsheets.md)
+  * [Best Practices](programming/best-practices.md )
 * [Text Editor](text-editors/README.md)
   * [Vim Plugins](text-editors/vim-plugins.md)
 * [News](news.md)
