@@ -44,6 +44,7 @@
 * [Design Patterns JS](https://github.com/fbeline/Design-Patterns-JS) - all the 23 \(GoF\) design patterns implemented in Javascript.
 * [JavaScript Visualizer](https://tylermcginnis.com/javascript-visualizer/) - a tool for visualizing Execution Context, Hoisting, Closures, and Scopes in JS.
 * [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript) - a collection of awesome browser-side JavaScript libraries, resources and shiny things.
+* [JS dev reads](https://github.com/twhite96/js-dev-reads) - a list of hand-picked books and articles for JavaScript developers
 * [JavaScript in one pic](https://github.com/coodict/javascript-in-one-pic) learn javascript in one picture.
 * [JS Tips](https://github.com/loverajoel/jstips) - short and useful JavaScript tips that will allow you to improve your code writing.
 * [JS Bits](https://github.com/vasanthk/js-bits) - JavaScript concepts explained with code.

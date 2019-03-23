@@ -25,6 +25,7 @@
 * When a question triggers anxiety or fear, ask **kaizen questions** - small, gentle, action-oriented questions:
   * When you are trying to reach a goal, ask yourself every day: "What is one small step I could take toward reaching my goal?"
   * When you are unhappy but aren't sure why: "If I were guaranteed not to fail, what would I be doing differently?"
+* When stuck on something challenging: What might it look like if it was easy?
 
 The question you most often ask yourself (or others ask you) can either guide or control you:
 
@@ -32,7 +33,7 @@ The question you most often ask yourself (or others ask you) can either guide or
 
 Seeking the right questions beats seeking answers. Answers are fragile. Questions forge a path. Answers can lead you astray.
 
-> The right question at the right time can change the course of a life, can still a turbulent mind, or heal an angry heart. ―Ryan Holiday
+> "The right question at the right time can change the course of a life, can still a turbulent mind, or heal an angry heart." ―Ryan Holiday
 
 ## Links
 * [The Six Types of Socratic Questions](http://www.umich.edu/~elements/5e/probsolv/strategy/cthinking.htm)
@@ -42,3 +43,4 @@ Seeking the right questions beats seeking answers. Answers are fragile. Question
 * [Gwern's Open Questions](https://www.gwern.net/Questions)
 * [Alexey Guzey Research Ideas](https://guzey.com/personal/research-ideas/)
 * [12 Questions That Will Change Your Life](https://thoughtcatalog.com/ryan-holiday/2017/09/12-questions-that-will-change-your-life/) by Ryan Holiday
+* [11 questions that changed my life](https://tim.blog/tag/11-questions-that-changed-my-life/) by Tim Ferriss
