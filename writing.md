@@ -22,3 +22,4 @@ The best writing advice:
 * [Story Structure 101: Super Basic Shit](https://channel101.fandom.com/wiki/Story_Structure_101:_Super_Basic_Shit) by Dan Harmon
 * [Brandon Sanderson - 318R Lectures](https://www.youtube.com/playlist?list=PLH3mK1NZn9QqOSj3ObrP3xL8tEJQ12-vL) - [notes](https://docs.google.com/document/d/1XpHaeK464xN2aqQm3QipYWbawuabEoCjg4HUe5CMkRo/edit)
 * [Riding The Writing Wave](https://www.perell.com/blog/writing) by David Perell
+* [Kurt Vonnegut on how to write a short story](https://www.youtube.com/watch?v=nmVcIhnvSx8)

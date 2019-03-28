@@ -8,6 +8,7 @@
   * [Language Learning](learning/language-learning.md)
 * [Habits](habits.md)
 * [Books](books.md)
+  * [Book Notes](books/book-notes.md)
 * [Blogs](blogs.md)
 * [Podcasts](podcasts.md)
 * [Marketing](marketing.md)
