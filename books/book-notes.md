@@ -1,7 +1,5 @@
 # Book Notes
 
-### My Book Notes
-
 * [The Antidote: Happiness for People Who Can't Stand Positive Thinking by Oliver Burkeman](https://stojanow.com/the-antidote/)
 * [A Technique for Producing Ideas by James Webb Young](https://stojanow.com/a-technique-for-producing-ideas/)
 * [Are Your Lights On?: How to Figure Out What the Problem Really Is by Donald Gause and Gerald Weinberg](https://stojanow.com/are-your-lights-on/)

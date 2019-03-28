@@ -1,24 +1,4 @@
-# Books
-
-> If a book has been in print for forty years, I can expect it to be in print for another forty years. But, and that is the main difference, if it survives another decade, then it will be expected to be in print another fifty years. This, simply, as a rule, tells you why things that have been around for a long time are not "aging" like persons, but "aging" in reverse. Every year that passes without extinction doubles the additional life expectancy. This is an indicator of some robustness. The robustness of an item is proportional to its life!
->
-> * Nassim Nicholas Taleb, Antifragile
-
-The described above [Lindy effect](https://en.wikipedia.org/wiki/Lindy_effect) instructs us that we should favour old books over new ones. The older the problem, the older the solution should be. Otherwise it wouldn't stick.
-
-> A new book is still on its trial and the amateur is not in a position to judge it. It has to be tested.
->
-> * C.S. Lewis
-
-I am guilty of falling for the buzz around new books. However, I follow a few rules:
-
-1. Skim through fast
-2. Start anywhere.
-3. Don't get stuck on bad books.
-4. Start conservatively and finish liberally: start good books, move on if they turn out bad.
-5. Follow what's fun and interesting.
-6. Knowing what NOT to read is as important as knowing what to read.
-7. Just in time reading: when you need it, read it; not if you think you'll need in the future.
+# Books I Recommend
 
 ## Favourite Books
 
@@ -189,14 +169,6 @@ I am guilty of falling for the buzz around new books. However, I follow a few ru
 * [The Attention Merchants: The Epic Scramble to Get Inside Our Heads](https://www.goodreads.com/book/show/28503628-the-attention-merchants) by Tim Wu
 * [The Innovator's Dilemma: The Revolutionary Book that Will Change the Way You Do Business](https://www.goodreads.com/book/show/2615.The_Innovator_s_Dilemma) by Clayton Christensen
 * [Superintelligence: Paths, Dangers, Strategies](https://www.goodreads.com/book/show/20527133-superintelligence) by Nick Bostrom
-* [Clock of the Long Now: Time and Responsibility: The Ideas Behind the World's Slowest Computer](Clock of the Long Now: Time and Responsibility: The Ideas Behind the World's Slowest Computer) by Stewart Brand
-* [Abundance: The Future Is Better Than You Think](Clock of the Long Now: Time and Responsibility: The Ideas Behind the World's Slowest Computer) by Peter Diamandis
-* [Life 3.0: Being Human in the Age of Artificial Intelligence](Clock of the Long Now: Time and Responsibility: The Ideas Behind the World's Slowest Computer) by Max Tegmark
-
-## Links:
-
-* [A Helpful Guide to Reading Better](https://fs.blog/reading/) and [How To Read a Book](https://www.farnamstreetblog.com/how-to-read-a-book/).
-* [Speed Reading is Bullshit](https://medium.com/the-mission/speed-reading-is-bullshit-f5acbee7f59e)
-* [Hacker News Books](https://hackernewsbooks.com/) - the top books mentioned in comments on [Hacker News](https://news.ycombinator.com).
-* [A taxonomy of ways books change your worldview](https://juliagalef.com/2017/01/06/a-taxonomy-of-books-that-change-your-worldview/) by Julia Galef
-* [Awesome SciFi](https://github.com/sindresorhus/awesome-scifi) - Sci-Fi worth consuming.
+* [Clock of the Long Now: Time and Responsibility: The Ideas Behind the World's Slowest Computer](https://www.goodreads.com/book/show/33279.Clock_of_the_Long_Now) by Stewart Brand
+* [Abundance: The Future Is Better Than You Think](https://www.goodreads.com/book/show/13187824-abundance) by Peter Diamandis
+* [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.goodreads.com/book/show/34272565-life-3-0) by Max Tegmark
