@@ -44,6 +44,7 @@
 * [Text Editor](text-editors/README.md)
   * [Vim Plugins](text-editors/vim-plugins.md)
 * [News](news.md)
+* [Mental Models](mental-models.md)
 * [Design](design.md)
 * [Research papers](research-papers.md)
 * [Talks](talks.md)
