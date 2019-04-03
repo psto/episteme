@@ -42,3 +42,8 @@ I listen to a wide variety of music. Favourite genres are [progressive rock](htt
 * [Klaus Schulze](https://en.wikipedia.org/wiki/Klaus_Schulze)
 * [Popol Vuh](https://en.wikipedia.org/wiki/Popol_Vuh_%28band%29/)
 
+## Links
+* [Reddit Music Player](https://reddit.musicplayer.io/) - play music from subreddits.
+* [Music Map](https://www.music-map.com/)
+* [Every Noise at Once](http://everynoise.com/)
+* [Music Theory: The TL;DR Version](https://gumroad.com/l/tldrmusic)

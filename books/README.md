@@ -31,3 +31,7 @@ I am guilty of falling for the buzz around new books. However, I follow a few ru
 * [Hacker News Books](https://hackernewsbooks.com/) - the top books mentioned in comments on [Hacker News](https://news.ycombinator.com).
 * [A taxonomy of ways books change your worldview](https://juliagalef.com/2017/01/06/a-taxonomy-of-books-that-change-your-worldview/) by Julia Galef
 * [Awesome SciFi](https://github.com/sindresorhus/awesome-scifi) - Sci-Fi worth consuming.
+* [Books To Base Your Life on](https://ryanholiday.net/reading-list/) by Ryan Holiday
+* [The Book Club](http://investorfieldguide.com/bookclub/) by Patrick O’Shaughnessy
+* [Talk to Books](https://books.google.com/talktobooks/) by Google - browse passages from books using experimental AI.
+* Book notes: [Derek Sivers](https://sivers.org/book), [James Clear](https://jamesclear.com/books), [Taylor Pearson](https://taylorpearson.me/book-review), [Tyler Cowen](https://marginalrevolution.com/marginalrevolution/category/books), [Nathaniel Eliason](https://www.nateliason.com/notes).
