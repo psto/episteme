@@ -16,4 +16,5 @@
 * How to read science papers: [How to read an academic article](http://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/), [How to read and understand a scientific paper](http://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/), [Advice on reading academic papers](https://www.cc.gatech.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html), [Should I Read Papers?](http://michaelrbernste.in/2014/10/21/should-i-read-papers.html)
 * [arXiv Vanity](https://www.arxiv-vanity.com/) renders academic papers from arXiv as responsive web pages so you don’t have to squint at a PDF.
 * [How I Research](https://acesounderglass.com/2019/03/27/how-i-research/) by Aceso Under Glass
-
+* [Awesome Research Tools](https://github.com/emptymalei/awesome-research#readme)
+* [Academic Torrents](http://academictorrents.com/) - a distributed system for sharing enormous datasets - for researchers, by researchers.

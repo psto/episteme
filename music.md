@@ -2,7 +2,7 @@
 
 I listen to a wide variety of music. Favourite genres are [progressive rock](https://en.wikipedia.org/wiki/Progressive_rock), [electronic music](https://en.wikipedia.org/wiki/Electronic_music) especially [IDM](https://en.wikipedia.org/wiki/Intelligent_dance_music) \(I use the abbreviation because the name is terrible\) and [krautrock](https://en.wikipedia.org/wiki/Krautrock).
 
-## Some Favourites
+### Some Favourites
 
 * [King Crimson](https://en.wikipedia.org/wiki/King_Crimson)
 * [Pink Floyd](https://en.wikipedia.org/wiki/Pink_Floyd)
@@ -42,10 +42,9 @@ I listen to a wide variety of music. Favourite genres are [progressive rock](htt
 * [Klaus Schulze](https://en.wikipedia.org/wiki/Klaus_Schulze)
 * [Popol Vuh](https://en.wikipedia.org/wiki/Popol_Vuh_%28band%29/)
 
-### Links
+## Links
 
 * [Reddit Music Player](https://reddit.musicplayer.io/) - play music from subreddits.
 * [Music Map](https://www.music-map.com/)
 * [Every Noise at Once](http://everynoise.com/)
 * [Music Theory: The TL;DR Version](https://gumroad.com/l/tldrmusic)
-
