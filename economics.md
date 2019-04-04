@@ -49,3 +49,4 @@
 * [The Economics of Seinfeld](http://yadayadayadaecon.com/) - using Seinfeld scenes to make economic concepts come alive.
 * [r/Economics](https://www.reddit.com/r/Economics) suggested [blogs](https://www.reddit.com/r/Economics/wiki/blogs) and [reading list](https://www.reddit.com/r/Economics/wiki/reading)
 * [r/BadEconomics](https://www.reddit.com/r/badeconomics/) - a repository for all of the woeful, antiquated, or plain old misguided notions Redditors post about how the economy works.
+

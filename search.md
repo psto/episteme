@@ -10,3 +10,4 @@ Searching is an essential skill. Yet for something we do every day we spend litt
 * [The Tiny, Essential Google Tricks for Way Better Search Results](https://lifehacker.com/the-tiny-essential-google-tricks-for-way-better-search-1826791031).
 * Use the [Internet Archive: Wayback Machine](https://archive.org/web/web.php) to find unavailable pages; also an addon like [View Page Archive & Cache](https://addons.mozilla.org/en-US/firefox/addon/view-page-archive/).
 * Learn about DuckDuckGo [bangs](https://duckduckgo.com/bang) and [features](https://duck.co/help/features).
+

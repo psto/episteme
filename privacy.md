@@ -42,4 +42,5 @@ But "[I have nothing to hide!](https://en.wikipedia.org/wiki/Nothing_to_hide_arg
 * [I've Got Nothing to Hide' and Other Misunderstandings of Privacy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565&) by Daniel J. Solove
 * More on Surveillance Capitalism: [Wikipedia](https://en.wikipedia.org/wiki/Surveillance_capitalism), [The Age of Surveillance Capitalism](https://www.goodreads.com/book/show/26195941-the-age-of-surveillance-capitalism) book
 * Another firefox [config](https://gist.github.com/0XDE57/fbd302cef7693e62c769).
-* [Turn It On](https://www.turnon2fa.com/) - guides to turn on two-factor authentication (2FA) on your accounts.
+* [Turn It On](https://www.turnon2fa.com/) - guides to turn on two-factor authentication \(2FA\) on your accounts.
+

@@ -50,3 +50,4 @@
 * [JS Bits](https://github.com/vasanthk/js-bits) - JavaScript concepts explained with code.
 * [Superhero.js](http://superherojs.com) - a list of articles that help explain the syntax of JavaScript, how to organize your projects, how to test your code, and what's on the horizon.
 * [JS channels](https://github.com/andrew--r/channels#readme) - a collection of useful YouTube channels and other videos sources for javascript developers and web designers.
+

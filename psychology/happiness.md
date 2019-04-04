@@ -49,3 +49,4 @@ Chasing happiness is often the thing that makes us miserable.
 
 * [The Antidote: Happiness for People Who Can't Stand Positive Thinking](https://www.goodreads.com/book/show/13721709-the-antidote) by Oliver Burkeman \(my [notes](https://stojanow.com/the-antidote/)\).
 * The older the problem, the older the solution: [Ancient Wisdom Reveals 7 Rituals That Will Make You Happy](https://www.bakadesuyo.com/2018/05/ancient-wisdom-2/)
+

@@ -9,3 +9,4 @@
 * [The 80% Approach by Dan Sullivan](https://stojanow.com/the-80-approach/)
 * [The Innovator's Dilemma by Clayton Christensen](https://stojanow.com/the-innovators-dilemma/)
 * [How Will You Measure Your Life? by Clayton Christensen](https://stojanow.com/how-will-you-measure-your-life/)
+

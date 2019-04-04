@@ -13,3 +13,4 @@ Mimblewimble uses [elliptic-curve cryptography](https://en.wikipedia.org/wiki/El
 * [Grin and the Mythical Fair Launch](http://uncommoncore.co/grin-and-the-mythical-fair-launch/) by Arjun Balaji and Hasu
 * [Circle Research on MimbleWimble](https://www.circle.com/en/research/mimblewimble)
 * [Mimblewimble: Private, Massively-PrunableBlockchains](http://cyber.stanford.edu/sites/g/files/sbiybj9936/f/andrewpoelstra.pdf) by Andrew Poelstra
+

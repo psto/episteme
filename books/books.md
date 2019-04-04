@@ -172,3 +172,4 @@
 * [Clock of the Long Now: Time and Responsibility: The Ideas Behind the World's Slowest Computer](https://www.goodreads.com/book/show/33279.Clock_of_the_Long_Now) by Stewart Brand
 * [Abundance: The Future Is Better Than You Think](https://www.goodreads.com/book/show/13187824-abundance) by Peter Diamandis
 * [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.goodreads.com/book/show/34272565-life-3-0) by Max Tegmark
+

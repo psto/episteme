@@ -20,9 +20,9 @@ I am guilty of falling for the buzz around new books. However, I follow a few ru
 6. Knowing what NOT to read is as important as knowing what to read.
 7. Just in time reading: when you need it, read it; not if you think you'll need in the future.
 
-**[Books I Recommend](books.md)**
+[**Books I Recommend**](books.md)
 
-**[My Book Notes](book-notes.md)**
+[**My Book Notes**](book-notes.md)
 
 ## Links:
 
@@ -35,3 +35,4 @@ I am guilty of falling for the buzz around new books. However, I follow a few ru
 * [The Book Club](http://investorfieldguide.com/bookclub/) by Patrick O’Shaughnessy
 * [Talk to Books](https://books.google.com/talktobooks/) by Google - browse passages from books using experimental AI.
 * Book notes: [Derek Sivers](https://sivers.org/book), [James Clear](https://jamesclear.com/books), [Taylor Pearson](https://taylorpearson.me/book-review), [Tyler Cowen](https://marginalrevolution.com/marginalrevolution/category/books), [Nathaniel Eliason](https://www.nateliason.com/notes).
+

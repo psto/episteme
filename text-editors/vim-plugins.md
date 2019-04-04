@@ -40,3 +40,4 @@ Before installing a plugin try to do it the pure Vim way.
 
 * [goyo.vim](https://github.com/junegunn/goyo.vim) - distraction-free writing.
 * [limelight.vim](https://github.com/junegunn/limelight.vim) - hyperfocus-writing.
+

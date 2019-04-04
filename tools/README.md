@@ -5,7 +5,7 @@
 * [My privacy tools](https://wiki.stojanow.com/privacy#what-i-use)
 * [GitBook](https://www.gitbook.com) - create books or documentation. It's also how I render markdown files in this wiki.
 * [GitHub](http://github.com/) and [GitHub pages](https://pages.github.com/) for free hosting.
-* [Jekyll](https://jekyllrb.com/) - transform your plain text into static websites and blogs (I deploy to GitHub using [Travis CI](https://travis-ci.org/))
+* [Jekyll](https://jekyllrb.com/) - transform your plain text into static websites and blogs \(I deploy to GitHub using [Travis CI](https://travis-ci.org/)\)
 * [IFTTT](https://ifttt.com/)- automate the boring stuff by getting all your apps and devices talking to each other \(some [applets I use](https://wiki.stojanow.com/tools/ifttt)\).
 * [transfer.sh](https://transfer.sh/) - easy file sharing from the command line.
 * [Firefox Send](https://send.firefox.com/) with [ffsend](https://github.com/timvisee/ffsend) for simple and private file sharing.
@@ -29,3 +29,4 @@
 * [Uses This](https://usesthis.com/) - asking people from all walks of life what they use to get the job done.
 * [Awesome Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - the best design tools for everything.
 * [Awesome Research Tools](https://github.com/emptymalei/awesome-research) - a curated list of tools to help you with research.
+

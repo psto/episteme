@@ -20,3 +20,4 @@
 * [arl](https://github.com/kaxap/arl#readme) - lists of most popular repositories for most favoured programming languages \(according to StackOverflow\).
 * [Good books for deep hacks](https://begriffs.com/posts/2017-04-13-longterm-computing-reading.html) by Joe Nelson, a list of books for a deep dive into interesting technical topics.
 * [The Tao of Programming](http://www.mit.edu/~xela/tao.html)
+

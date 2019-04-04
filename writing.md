@@ -5,6 +5,7 @@ The best writing advice:
 > "Do not worry. You have always written before and you will write now. All you have to do is write one true sentence. Write the truest sentence you know." - Ernest Hemingway
 
 ### Books on writing
+
 * [Why I Write](https://www.goodreads.com/book/show/9644.Why_I_Write) by George Orwell
 * [On Writing: A Memoir of the Craft](https://www.goodreads.com/book/show/10569.On_Writing) by Stephen King
 * [Bird by Bird: Some Instructions on Writing and Life](https://www.goodreads.com/book/show/12543.Bird_by_Bird) by Anne Lamott
@@ -23,3 +24,4 @@ The best writing advice:
 * [Brandon Sanderson - 318R Lectures](https://www.youtube.com/playlist?list=PLH3mK1NZn9QqOSj3ObrP3xL8tEJQ12-vL) - [notes](https://docs.google.com/document/d/1XpHaeK464xN2aqQm3QipYWbawuabEoCjg4HUe5CMkRo/edit)
 * [Riding The Writing Wave](https://www.perell.com/blog/writing) by David Perell
 * [Kurt Vonnegut on how to write a short story](https://www.youtube.com/watch?v=nmVcIhnvSx8)
+

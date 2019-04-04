@@ -25,3 +25,4 @@ Found a mistake? [Contact me](https://stojanow.com/contact/) or open a [github i
 ## Say Hi
 
 On twitter: [@piotrstojanow](https://twitter.com/piotrstojanow) or send me an [email](https://stojanow.com/contact/).
+
