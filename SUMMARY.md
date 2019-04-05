@@ -43,6 +43,7 @@
   * [Best Practices](programming/best-practices.md)
 * [Text Editor](text-editors/README.md)
   * [Vim Plugins](text-editors/vim-plugins.md)
+* [Cryptography](cryptography.md)
 * [News](news.md)
 * [Mental Models](mental-models.md)
 * [Design](design.md)
@@ -57,4 +58,3 @@
 * [Questions](questions.md)
 * [Poems](poems.md)
 * [YouTube](youtube.md)
-
