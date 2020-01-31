@@ -8,17 +8,17 @@ But "[I have nothing to hide!](https://en.wikipedia.org/wiki/Nothing_to_hide_arg
 
 ### What I use
 
-**Browser**: [Firefox](https://www.mozilla.org/kab/firefox/developer/) with [add-ons](https://www.privacytools.io/#addons) + this [config](https://www.privacytools.io/#about_config) and [Tor](https://www.torproject.org/download/download-easy.html.en); [Firefox mobile](https://www.mozilla.org/en-US/firefox/mobile/) and [Tor for android](https://www.torproject.org/projects/torbrowser.html.en#downloads-alpha) with [orbot](https://guardianproject.info/apps/orbot/).
+**Browser**: [Firefox](https://www.mozilla.org/kab/firefox/developer/) with [add-ons](https://www.privacytools.io/#addons) + [configs](https://www.privacytools.io/#about_config) and [Tor](https://www.torproject.org/download/download-easy.html.en); [Firefox mobile](https://www.mozilla.org/en-US/firefox/mobile/) and [Tor for android](https://www.torproject.org/projects/torbrowser.html.en#downloads-alpha) with [orbot](https://guardianproject.info/apps/orbot/).
 
-**Text messaging**: [Signal](https://signal.org/).
+**Text messaging**: [Signal](https://signal.org/)
 
 **Email**: [Mailpile](https://www.mailpile.is/) on pc and [K-9 Mail](https://github.com/k9mail/k-9/releases) on mobile. I've changed my email accounts to [protonmail](https://protonmail.com/) and [tutanota](https://tutanota.com/), but I'm still forced to use gmail sometimes.
 
 **Search**: I'm a [DuckDuckGo](https://duckduckgo.com/) user since 2011 and it's getting better and better. A few others: [Searx](https://searx.me/), [Qwant](https://www.qwant.com/), [MetaGer](https://metager.org/), [Swisscows](https://swisscows.com/).
 
-**OS**: [Ubuntu](https://www.ubuntu.com/).
+**OS**: [Debian](https://www.debian.org/) with [i3 window manager](https://i3wm.org/). Sometimes [Tails](https://tails.boum.org/).
 
-**Mobile OS**: [LineageOS](https://www.lineageos.org/).
+**Mobile OS**: [LineageOS](https://www.lineageos.org/)
 
 **Password Manager**: [KeePassXC](https://keepassxc.org/)
 
