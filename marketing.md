@@ -32,7 +32,11 @@ _source:_ [_The Science of How Customers Buy Anything_](https://blog.leanstack.c
 
 > "The first battle isn’t fought on the ground but in the mind of the customer. It isn’t fought with your built out solution but instead with an offer." - Ash Maurya
 
-Every offer consists of 3 elements: 1. **Unique Value Proposition** that grab customer’s attention. 2. **Demo** which takes them from current reality to desired reality. 3. **Price** that locks in commitment.
+Every offer consists of 3 elements: 
+
+1. **Unique Value Proposition** that grabs customer’s attention. 
+2. **Demo** which takes them from current reality to desired reality. 
+3. **Price** that locks in commitment.
 
 > "The aim of marketing is to know and understand the customer so well the product or service fits him and sells itself." - Peter Drucker
 

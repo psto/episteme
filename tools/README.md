@@ -2,11 +2,11 @@
 
 ### Tools I use
 
-* [My privacy tools](https://wiki.stojanow.com/privacy#what-i-use)
+* [My privacy tools](/privacy#what-i-use)
 * [GitBook](https://www.gitbook.com) - create books or documentation. It's also how I render markdown files in this wiki.
 * [GitHub](http://github.com/) and [GitHub pages](https://pages.github.com/) for free hosting.
 * [Jekyll](https://jekyllrb.com/) - transform your plain text into static websites and blogs \(I deploy to GitHub using [Travis CI](https://travis-ci.org/)\)
-* [IFTTT](https://ifttt.com/)- automate the boring stuff by getting all your apps and devices talking to each other \(some [applets I use](https://wiki.stojanow.com/tools/ifttt)\).
+* [IFTTT](https://ifttt.com/)- automate the boring stuff by getting all your apps and devices talking to each other \(some [applets I use](/tools/ifttt)\).
 * [transfer.sh](https://transfer.sh/) - easy file sharing from the command line.
 * [Firefox Send](https://send.firefox.com/) with [ffsend](https://github.com/timvisee/ffsend) for simple and private file sharing.
 * [Tiny Letter](https://github.com/psto/episteme/tree/bf7fe1e50e6e78b32f167343d2541fc195cb56b8/tinyletter.com) - a free personal newsletter by Mailchimp.

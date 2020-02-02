@@ -1,8 +1,8 @@
-# CLI
+# Command Line Tools
 
-### Command line tools I love
+### CLI tools I love
 
-* [neovim](https://github.com/neovim/neovim) is my default [text-editor](https://wiki.stojanow.com/text-editors).
+* [neovim](https://github.com/neovim/neovim) is my default [text-editor](../text-editors/README.md).
 * [git](https://github.com/git/git) for version control.
 * [fzf](https://github.com/junegunn/fzf) - command-line fuzzy finder.
 * [tmux](https://github.com/tmux/tmux) - terminal multiplexer.
@@ -22,18 +22,9 @@
 * [mutt](http://www.mutt.org) - terminal email client.
 * [thefuck](https://github.com/nvbn/thefuck) corrects errors in previous console commands.
 
-### Learn the Command Line
-
-* [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics) by Michael Hartl - a tutorial introduction to the Unix command line.
-* [Codecademy's Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line) - interactive course.
-* [LinuxCommand](http://linuxcommand.org/index.php) and [The Linux Command Line](http://linuxcommand.org/tlcl.php) book by William Shotts
-* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) - master the command line, in one page.
-* [Bash Guide](https://github.com/Idnan/bash-guide) - a guide to learn bash.
-* [Shell Style Guide](https://google.github.io/styleguide/shell.xml) by Paul Armstrong
-* [The Bash Hackers Wiki](https://wiki.bash-hackers.org) - human-readable documentation.
-
 ## Links
 
+* [Learn the Command Line](/programming/learn-the-command-line)
 * [Awesome Command Line Utilities](https://github.com/learn-anything/command-line-tools)
 * [Awesome Shell](https://github.com/alebcay/awesome-shell)
 * [r/commandline](https://www.reddit.com/r/commandline/) - for questions, tips, and interesting programs.

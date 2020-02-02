@@ -2,9 +2,9 @@
 
 ### Index
 
-* [Emotions](https://wiki.stojanow.com/psychology/emotions)
-* [Happiness](https://wiki.stojanow.com/psychology/happiness)
-* [Habits](https://wiki.stojanow.com/habits)
+* [Emotions](emotions.md)
+* [Habits](habits.md)
+* [Happiness](happiness.md)
 
 ## Links
 

@@ -6,9 +6,9 @@
 * Watch videos in 2x/3x speed \(it takes some time to get used to\).
   * `Shift + >` increase playback speed \(`Shift + <` to decrease\); max 2x speed.
   * or Video Speed Controller for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/videospeed/) and [Chrome](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en)
-* Don't rely on youtube algorithm.
-  * When searching for a certain topic, find online community and see what they recommend.
-* Don't turn youtube into a TV \(have a purpose on being on the site\).
+* Don't rely on youtube's algorithm.
+  * When searching for a certain topic, find an online community and see what they recommend.
+* Don't turn youtube into TV \(have a purpose on being on the site\).
 * Other useful shortcuts
   * `k` to pause/play
   * `f` for full screen
