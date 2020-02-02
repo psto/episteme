@@ -2,7 +2,7 @@
 
 ### CLI tools I love
 
-* [neovim](https://github.com/neovim/neovim) is my default [text-editor](../text-editors/README.md).
+* [neovim](https://github.com/neovim/neovim) is my default [text-editor](../text-editor/).
 * [git](https://github.com/git/git) for version control.
 * [fzf](https://github.com/junegunn/fzf) - command-line fuzzy finder.
 * [tmux](https://github.com/tmux/tmux) - terminal multiplexer.
@@ -24,7 +24,7 @@
 
 ## Links
 
-* [Learn the Command Line](/programming/learn-the-command-line)
+* [Learn the Command Line](../../programming/learn-the-command-line.md)
 * [Awesome Command Line Utilities](https://github.com/learn-anything/command-line-tools)
 * [Awesome Shell](https://github.com/alebcay/awesome-shell)
 * [r/commandline](https://www.reddit.com/r/commandline/) - for questions, tips, and interesting programs.
