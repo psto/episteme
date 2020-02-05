@@ -7,7 +7,7 @@
 * We are always in problem-solving mode. Even when we think we are in the present, we are looking for what'll happen next.
   * Thinking is useful but constantly losing oneself in thought is a nightmare.
   * We are unaware of the the story we are telling ourselves all day long.
-* Meditation is the practice of running your brain in "debug mode". 
+* Meditation is the practice of running your brain in "[debug mode](https://en.wikipedia.org/wiki/Debug_menu)". 
   * Create space between your thoughts by being aware of them.
   * "We suffer more in imagination than in reality" – Seneca
 * One can't fail at meditation.
@@ -18,6 +18,12 @@
   * How we think about our experience changes the experience.
 * Be kind to yourself.
 * It's not about sitting. Walk around and practice accepting the moment you are in without making judgements.
+
+### But how does it work (studies)?
+
+* [Meditation, mindfulness and executive control: the importance of emotional acceptance and brain-based performance monitoring](https://academic.oup.com/scan/article/8/1/85/1694475): "emotional acceptance and performance monitoring play important roles".
+* [Mindful Emotion Regulation: Exploring the Neurocognitive Mechanisms behind Mindfulness](https://www.hindawi.com/journals/bmri/2015/670724/): "mindfulness has achieved effective outcomes in the treatment of anxiety, depression, and other psychopathologies through the contribution of mindfulness to emotional regulation".
+* [How Does Mindfulness Meditation Work? Proposing Mechanisms of Action From a Conceptual and Neural Perspective](https://www.ncbi.nlm.nih.gov/pubmed/26168376): "Evidence suggests that mindfulness practice is associated with neuroplastic changes in the anterior cingulate cortex, insula, temporo-parietal junction, fronto-limbic network, and default mode network structures".
 
 ## Links
 
