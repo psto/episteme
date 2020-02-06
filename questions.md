@@ -27,6 +27,13 @@
   * When you are trying to reach a goal, ask yourself every day: "What is one small step I could take toward reaching my goal?"
   * When you are unhappy but aren't sure why: "If I were guaranteed not to fail, what would I be doing differently?"
 * When stuck on something challenging: What might it look like if it was easy?
+* "[Via Negativa](https://en.wikipedia.org/wiki/Antifragile#Via_negativa)" questions like:
+  * What kind of person I **don't** want to be?
+  * What is my **not**-to-do list for today?
+* To avoid [survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias) when presented with a new statistic, inference, assessment, ask:
+  * What's the process that generated that data?
+  * What are the things that could have happened that might have led them to not measure something?
+  * What's the data that's not present?
 
 The question you most often ask yourself \(or others ask you\) can either guide or control you:
 
@@ -46,4 +53,5 @@ Seeking the right questions beats seeking answers. Answers are fragile. Question
 * [Alexey Guzey Research Ideas](https://guzey.com/personal/research-ideas/)
 * [12 Questions That Will Change Your Life](https://thoughtcatalog.com/ryan-holiday/2017/09/12-questions-that-will-change-your-life/) by Ryan Holiday
 * [11 questions that changed my life](https://tim.blog/tag/11-questions-that-changed-my-life/) by Tim Ferriss
-
+* [Skip the small talk](https://lamaalrajih.com/2019/07/24/skip-the-small-talk-part-one/) questions by Lama Al Rajih
+* [10X Your Business](http://blog.eladgil.com/2010/10/10x-your-business.html) with just two questions by Elad Gil

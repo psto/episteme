@@ -19,6 +19,7 @@
 
 ## Links
 
+* [Structured Procrastination](http://www.structuredprocrastination.com/) by John Perry
 * [Good and Bad procrastination](http://paulgraham.com/procrastination.html) and [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html) by Paul Graham
 * [Productivity](http://blog.samaltman.com/productivity) by Sam Altman
 * [The Not-To-Do Lis](http://tim.blog/2007/08/16/the-not-to-do-list-9-habits-to-stop-now/) and ["Productivity" Tricks for the Neurotic, Manic-Depressive, and Crazy \(Like Me\)](http://fourhourworkweek.com/2013/11/03/productivity-hacks/) by Tim Ferriss

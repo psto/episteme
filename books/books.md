@@ -159,7 +159,7 @@
 * [Paradyzja](https://www.goodreads.com/book/show/733473.The_Futurological_Congress) by Janusz Zajdel
 * [Replay](https://www.goodreads.com/book/show/341735.Replay) by Ken Grimwood
 * [1984](https://www.goodreads.com/book/show/40961427-1984) by George Orwell
-* [Little Brother](https://www.goodreads.com/book/show/954674.Little_Brother) by Cory Doctorow
+* [Little Brother](https://www.goodreads.com/book/show/954674.Little_Brother) by Cory Doctorow ([free download](https://craphound.com/littlebrother/download/))
 
 ### Technology:
 
