@@ -10,7 +10,7 @@ Beware of the [Solomon's Paradox](https://www.researchgate.net/publication/26301
 
 > "People reason more wisely about other people’s social problems than about their own."
 
-Since we are better at giving advice than taking it ourselves, we can hack it by asking: "what would I advise to my best friend?" or "what would X do \(where X is the master of that particular domain\)?". Considering a problem from a third-person perspective ([self-distancing](https://en.wikipedia.org/wiki/Distancing_(psychology)#Self-distancing_perspective)) makes us more adept at solving it.
+Since we are better at giving advice than taking it ourselves, we can hack it by asking: "what would I advise to my best friend?" or "what would X do \(where X is the master of that particular domain\)?". Considering a problem from a third-person perspective \([self-distancing](https://en.wikipedia.org/wiki/Distancing_%28psychology%29#Self-distancing_perspective)\) makes us more adept at solving it.
 
 ## Links
 
@@ -25,3 +25,4 @@ Since we are better at giving advice than taking it ourselves, we can hack it by
 * [Ask Ariely column](http://danariely.com/tag/advice-column/)
 * [Find a fulfilling career that does good](https://80000hours.org/career-guide/) by 80,000 Hours - based on five years of research alongside academics at Oxford.
 * [What Should You Do with Your Life? Directions and Advice](https://guzey.com/personal/what-should-you-do-with-your-life/) by Alexey Guzey
+
