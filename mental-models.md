@@ -5,8 +5,10 @@
 ## Links
 
 * [Mental Models: The Best Way to Make Intelligent Decisions](https://fs.blog/mental-models/) by Farnam Street
+  * available as a book: [The Great Mental Models: General Thinking Concepts](https://www.goodreads.com/book/show/44245196-the-great-mental-models) by Shane Parrish
 * [What are mental models?](https://mentalmodels.princeton.edu/about/what-are-mental-models/)
-* [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d) by Gabriel Weinberg
+* [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d) by Gabriel Weinberg,
+  * now also in book form: [Super Thinking: The Big Book of Mental Models](https://www.goodreads.com/book/show/41181911-super-thinking)
 * [Ask HN: What books have made the biggest impact on your mental models?](https://news.ycombinator.com/item?id=15155833)
 * [Mental Models: Learn How to Think Better and Gain a Mental Edge](https://jamesclear.com/mental-models) by James Clear
 * [Mental Models](https://www.safalniveshak.com/mental-models/) by Safal Niveshak
