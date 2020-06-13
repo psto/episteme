@@ -36,8 +36,11 @@ I love movies where things are not what they seem.
 * [Akira \(1988\)](https://www.imdb.com/title/tt0094625/)
 * [Spirited Away \(2001\)](https://www.imdb.com/title/tt0245429/)
 * [Paprika \(2006\)](https://www.imdb.com/title/tt0851578/)
+
+## Short Animations
+* [Everything Will Be Ok \(2006\)](https://www.imdb.com/title/tt0887734/) and [I Am So Proud of You (2008)](https://www.imdb.com/title/tt1282053/)
 * [It's Such a Beautiful Day \(2012\)](https://www.imdb.com/title/tt2396224/)
-* [World of Tomorrow \(2015\)](https://www.imdb.com/title/tt4171032/)
+* [World of Tomorrow \(2015\)](https://www.imdb.com/title/tt4171032/) and [World of Tomorrow Episode Two: The Burden of Other People's Thoughts (2017)](https://www.imdb.com/title/tt7278178/)
 
 ## Short Films
 
