@@ -25,6 +25,7 @@
   * "What could I be happy about?"
 * When a question triggers anxiety or fear, ask **kaizen questions** - small, gentle, action-oriented questions:
   * When you are trying to reach a goal, ask yourself every day: "What is one small step I could take toward reaching my goal?"
+  * After [Epictetus](https://en.wikisource.org/wiki/Epictetus,_the_Discourses_as_reported_by_Arrian,_the_Manual,_and_Fragments/Book_2/Chapter_13): What is it I want that is not within my power?
   * When you are unhappy but aren't sure why: "If I were guaranteed not to fail, what would I be doing differently?"
 * When stuck on something challenging: What might it look like if it was easy?
 * "[Via Negativa](https://en.wikipedia.org/wiki/Antifragile#Via_negativa)" questions like:
@@ -34,6 +35,7 @@
   * What's the process that generated that data?
   * What are the things that could have happened that might have led them to not measure something?
   * What's the data that's not present?
+* The [Hamming](https://www.lesswrong.com/posts/P5k3PGzebd5yYrYqd/the-hamming-question) [Question](http://www.paulgraham.com/hamming.html): What are the most important problems in your field, and why aren’t you working on them?
 
 The question you most often ask yourself \(or others ask you\) can either guide or control you:
 
