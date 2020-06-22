@@ -10,12 +10,17 @@
 
 > The best way I’ve found to understand a very technical or scientific paper is to search YouTube for someone to explain it. The ideal is to find a journal club report. Journal clubs are informal groups who share the task of explaining an interesting paper to each other. Each member rotates in picking a paper to explain to their peers. This is 100 times better than having the author explain it, because authors assume too much prior knowledge. It is better to have a newbie who just figured it out. If you are lucky, a journal club will video their reports and post. Search YouTube with the paper’s title or topic and add the term “journal club.”
 
+#### **TIP**
 
-**TIP**: *I don't use [sci-hub](https://sci-hub.tw) unless the paper was financed through public means and ended up behind a paywall*. Create a new bookmark. Paste the code below in the URL box. When you are on a site with a paper behind a paywall, click on the new bookmark you've created. It's a quicker way of typing http://sci-hub.tw/ in front of the article's URL.
+{% hint style="warning" %}
+Create a new bookmark. Paste the code below in the URL box. When you are on a site with a paper behind a paywall, click on the new bookmark you've created. It's a quicker way of typing [http://sci-hub.tw/](http://sci-hub.tw/) in front of the article's URL.
+{% endhint %}
 
-```js
+```javascript
 javascript:(function(){window.location.href = "http://sci-hub.tw/"+window.location.href;})();
 ```
+
+> _I don't use_ [_sci-hub_](https://sci-hub.tw) _unless the paper was financed through public means and ended up behind a paywall_.
 
 ## Links
 
@@ -25,3 +30,4 @@ javascript:(function(){window.location.href = "http://sci-hub.tw/"+window.locati
 * [How I Research](https://acesounderglass.com/2019/03/27/how-i-research/) by Aceso Under Glass
 * [Awesome Research Tools](https://github.com/emptymalei/awesome-research#readme)
 * [Academic Torrents](http://academictorrents.com/) - a distributed system for sharing enormous datasets - for researchers, by researchers.
+
