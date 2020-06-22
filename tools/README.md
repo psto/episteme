@@ -25,6 +25,21 @@
 * [Kill the Newsletter!](https://www.kill-the-newsletter.com) - convert email newsletters into Atom feeds.
 * [Kill sticky headers](https://alisdair.mcdiarmid.org/kill-sticky-headers/) - a bookmarklet to remove annoying sticky headers.
 
+Create a new bookmark and paste the JavaScript code below in the URL box:
+* to [see a dead page](https://en.wikipedia.org/wiki/Help:Using_the_Wayback_Machine#JavaScript_bookmarklet) with the [Wayback Machine](https://web.archive.org/): 
+```javascript
+javascript:(function(){window.location.href = "https://web.archive.org/web/*/"+window.location.href;})();
+```
+* save a web page: 
+```javascript
+javascript:void(window.open('https://web.archive.org/save/'+location.href));
+```
+* remove distractions:
+```javascript
+javascript:(function(){window.location.href = "https://outline.com/"+window.location.href;})();
+```
+* [sci-hub.tw shortcut](research-papers.md)
+
 ## Links
 
 * [Hacker Tools](https://hacker-tools.github.io) - make the most of the tools that hackers have been using for decades.
