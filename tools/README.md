@@ -6,8 +6,10 @@
 * [Text editor](text-editor/) \(vim\)
 * Favourite [command line tools](cli/)
 * [GitBook](https://www.gitbook.com) - create books or documentation. It's also how I render markdown files in this wiki.
-* [GitHub](http://github.com/) and [GitHub pages](https://pages.github.com/) for free hosting.
+* [GitHub](http://github.com/) and [Gitlab](https://about.gitlab.com/) for hosting code.
+* [GitHub pages](https://pages.github.com/), [Netlify](https://www.netlify.com/), [Vercel](https://vercel.com/) for free hosting
 * [Jekyll](https://jekyllrb.com/) - transform your plain text into static websites and blogs \(I deploy to GitHub using [Travis CI](https://travis-ci.org/)\)
+* [Gridsome](https://gridsome.org/) to build static generated websites & apps.
 * [IFTTT](https://ifttt.com/)- automate the boring stuff by getting all your apps and devices talking to each other \(some [applets I use](ifttt.md)\).
 * [transfer.sh](https://transfer.sh/) - easy file sharing from the command line.
 * [Firefox Send](https://send.firefox.com/) with [ffsend](https://github.com/timvisee/ffsend) for simple and private file sharing.
@@ -23,31 +25,7 @@
 * [Dropbox](https://www.dropbox.com) with [Cryptomator](https://cryptomator.org/) encryption.
 * [paletton](http://paletton.com) and [color calculator](https://www.sessions.edu/color-calculator/) - pick a color scheme.
 * [Kill the Newsletter!](https://www.kill-the-newsletter.com) - convert email newsletters into Atom feeds.
-* [Kill sticky headers](https://alisdair.mcdiarmid.org/kill-sticky-headers/) - a bookmarklet to remove annoying sticky headers.
-
-{% hint style="info" %}
-Create a new bookmark and paste the JavaScript code below in the URL box:
-{% endhint %}
-
-* [see a dead page](https://en.wikipedia.org/wiki/Help:Using_the_Wayback_Machine#JavaScript_bookmarklet) with the [Wayback Machine](https://web.archive.org/): 
-
-  ```javascript
-  javascript:(function(){window.location.href = "https://web.archive.org/web/*/"+window.location.href;})();
-  ```
-
-* save a web page: 
-
-  ```javascript
-  javascript:void(window.open('https://web.archive.org/save/'+location.href));
-  ```
-
-* remove distractions:
-
-  ```javascript
-  javascript:(function(){window.location.href = "https://outline.com/"+window.location.href;})();
-  ```
-
-* [sci-hub.tw shortcut](../research-papers.md#tip)
+* [useful bookmarklets](tools/bookmarklets.md)
 
 ## Links
 
@@ -55,4 +33,4 @@ Create a new bookmark and paste the JavaScript code below in the URL box:
 * [Uses This](https://usesthis.com/) - asking people from all walks of life what they use to get the job done.
 * [Awesome Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - the best design tools for everything.
 * [Awesome Research Tools](https://github.com/emptymalei/awesome-research) - a curated list of tools to help you with research.
-
+* [/uses](https://uses.tech/) - a list of /uses pages detailing developer setups, gear, software and configs.

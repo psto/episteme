@@ -25,6 +25,7 @@
 * [Productivity](productivity.md)
 * [Meditation](meditation.md)
 * [Tools](tools/README.md)
+  * [Bookmarklets](tools/bookmarklets.md)
   * [Command Line Tools](tools/cli/README.md)
     * [fish](tools/cli/fish.md)
   * [IFTTT](tools/ifttt.md)
