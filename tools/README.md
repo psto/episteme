@@ -25,7 +25,7 @@
 * [Dropbox](https://www.dropbox.com) with [Cryptomator](https://cryptomator.org/) encryption.
 * [paletton](http://paletton.com) and [color calculator](https://www.sessions.edu/color-calculator/) - pick a color scheme.
 * [Kill the Newsletter!](https://www.kill-the-newsletter.com) - convert email newsletters into Atom feeds.
-* [useful bookmarklets](tools/bookmarklets.md)
+* [useful bookmarklets](bookmarklets.md)
 
 ## Links
 
@@ -34,3 +34,4 @@
 * [Awesome Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - the best design tools for everything.
 * [Awesome Research Tools](https://github.com/emptymalei/awesome-research) - a curated list of tools to help you with research.
 * [/uses](https://uses.tech/) - a list of /uses pages detailing developer setups, gear, software and configs.
+
