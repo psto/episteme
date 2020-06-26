@@ -10,19 +10,23 @@ The described above [Lindy effect](https://en.wikipedia.org/wiki/Lindy_effect) i
 >
 > * C.S. Lewis
 
-I am guilty of falling for the buzz around new books. However, I follow a few rules:
+I am guilty of falling for the buzz around new books. However, I follow:
 
-1. Skim through fast
+### My Rules for Reading
+
+1. Skim through fast.
 2. Start anywhere.
-3. Don't get stuck on bad books.
-4. Start conservatively and finish liberally: start good books, move on if they turn out bad.
-5. Follow what's fun and interesting.
+3. Start conservatively, finish liberally. Start good books, move on if they turn out bad.
+5. Follow your curiosity. Don't follow "must reads" and "best seller lists".
 6. Knowing what NOT to read is as important as knowing what to read.
-7. Just in time reading: when you need it, read it; not if you think you'll need in the future.
+7. Read it when you need it. Don't read just-in-case you'll need it. Practice just-in-time reading. 
+8. A book is a menu. Read what you are starving for.
+9. Opportunity cost: what could I be reading/doing instead of reading this?
+9. Read as if you were investing. Does it compound my knowledge or am I chasing quick gains (insight porn)?
 
-[**Books I Recommend**](books.md)
+### [**Books I Recommend**](books.md)
 
-[**My Book Notes**](book-notes.md)
+### [**My Book Notes**](book-notes.md)
 
 ## Links:
 
