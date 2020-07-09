@@ -39,4 +39,5 @@ I am guilty of falling for the buzz around new books. However, I follow:
 * [The Book Club](http://investorfieldguide.com/bookclub/) by Patrick O’Shaughnessy
 * [Talk to Books](https://books.google.com/talktobooks/) by Google - browse passages from books using experimental AI.
 * Book notes: [Derek Sivers](https://sivers.org/book), [James Clear](https://jamesclear.com/books), [Taylor Pearson](https://taylorpearson.me/book-review), [Tyler Cowen](https://marginalrevolution.com/marginalrevolution/category/books), [Nathaniel Eliason](https://www.nateliason.com/notes).
+* Nassim Taleb on [what not to read](https://twitter.com/nntaleb/status/843099931279790081).
 

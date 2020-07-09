@@ -31,6 +31,8 @@
   * High positions are equated with wealth, prestige and status.
   * Competition is seen as inconvenient and battled with special permits, grants, tax breaks.
 * Decentralised systems withstand more than centralised systems.
+* Governments use taxes to create demand for their currency. After Adam Smith:
+  > "A prince, who should enact that a certain proportion of his taxes should be paid in a paper money of a certain kind, might thereby give a certain value to this paper money"
 
 ### What I enjoyed reading
 
