@@ -52,6 +52,7 @@
 * [Research papers](research-papers.md)
 * [Talks](talks.md)
 * [History](history.md)
+* [Progress](progress.md)
 * [Protocols](protocols/README.md)
   * [Dat](protocols/dat.md)
   * [Matrix](protocols/matrix.md)
