@@ -25,4 +25,4 @@ Since we are better at giving advice than taking it ourselves, we can hack it by
 * [Ask Ariely column](http://danariely.com/tag/advice-column/)
 * [Find a fulfilling career that does good](https://80000hours.org/career-guide/) by 80,000 Hours - based on five years of research alongside academics at Oxford.
 * [What Should You Do with Your Life? Directions and Advice](https://guzey.com/personal/what-should-you-do-with-your-life/) by Alexey Guzey
-
+* [Boilerplate Advice](https://www.ribbonfarm.com/2021/01/06/boilerplate-advice/) by Venkatesh Rao
