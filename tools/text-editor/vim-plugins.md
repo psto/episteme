@@ -8,36 +8,35 @@ Before installing a plugin try to do it the pure Vim way.
 * [vim-fugitive](https://github.com/tpope/vim-fugitive) - a Git wrapper.
 * [supertab](https://github.com/ervandew/supertab) - perform all your vim insert mode completions with Tab.
 * [fzf.vim](https://github.com/junegunn/fzf.vim) - a bundle of fzf-based commands and mappings.
-* [tabular](https://github.com/godlygeek/tabular) - script for text filtering and alignment.
 * [auto-pairs](https://github.com/jiangmiao/auto-pairs) - insert or delete brackets, parens, quotes in pair.
 * [tcomment\_vim](https://github.com/tomtom/tcomment_vim) - easy to use, file-type sensible comments for Vim.
-* [syntastic](https://github.com/vim-syntastic/syntastic) - syntax checking hacks for vim.
-* [vim-endwise](https://github.com/tpope/vim-endwise) - end certain structures automatically.
-* [ale](https://github.com/w0rp/ale) - asynchronous linting/fixing for Vim and Language Server Protocol \(LSP\) integration
-* [tern\_for\_vim](https://github.com/ternjs/tern_for_vim) - tern plugin for Vim.
-* [deoplete.nvim](https://github.com/Shougo/deoplete.nvim) - dark powered asynchronous completion framework for neovim/Vim8.
-* [NeoSolarized](https://github.com/icymind/NeoSolarized) - a fixed solarized colorscheme for better truecolor support.
-
-## HTML
-
+* [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - load extensions like VSCode and host language servers.
 * [emmet-vim](https://github.com/mattn/emmet-vim) - support for expanding HTM abbreviations.
-* [vim-pug](https://github.com/digitaltoad/vim-pug) - template engine syntax highlighting and indention
+* [mhinz/vim-startify](https://github.com/mhinz/vim-startify) - a starter screen, useful for bookmarks
+* [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - a blazing fast and easy to configure neovim statusline plugin
 
-## Javascript
+## Navigation
+* [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick.
+* [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - seamless navigation between tmux panes and vim splits
+* [karb94/neoscroll.nvim](https://github.com/karb94/neoscroll.nvim) - smooth scrolling
 
-* [vim-javascript-syntax](https://github.com/jelera/vim-javascript-syntax) - enhanced javascript syntax file for Vim.
-* [vim-node](https://github.com/moll/vim-node) **-** tools and environment for developing with Node.js
-* [vim-pug](https://github.com/digitaltoad/vim-pug) -  template engine syntax highlighting and indention.
-* [deoplete-ternjs](https://github.com/carlitux/deoplete-ternjs) - deoplete.nvim source for javascript.
-* [jspc.vim](https://github.com/othree/jspc.vim) - a completion function for function parameters, such as event names, crypto algorithms, and common locales.
+## Colors
+* [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - a [tree-sitter](https://github.com/tree-sitter/tree-sitter) interface for Neovim for highlighting
+[kyazdani42/nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons) - pretty icons and colors
+* [dracula/vim](https://github.com/dracula/vim) - a dark 🧛 theme
+* [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - a soft dark, fully customizable (Neo)Vim theme, with support for lsp, treesitter and a variety of plugins.
 
-## Ruby
+## Diagnostics
+[folke/trouble.nvim](https://github.com/folke/trouble.nvim) - pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
 
-* [Vim-Ruby](https://github.com/vim-ruby) - editing and compiling Ruby within Vim,
-* [vim-rails](https://github.com/tpope/vim-rails) - Ruby on Rails power tools.
+## Formatting
+* [tabular](https://github.com/godlygeek/tabular) - script for text filtering and alignment.
+* [sbdchd/neoformat](https://github.com/sbdchd/neoformat) - code formatting
 
 ## Writing
 
 * [goyo.vim](https://github.com/junegunn/goyo.vim) - distraction-free writing.
 * [limelight.vim](https://github.com/junegunn/limelight.vim) - hyperfocus-writing.
 
+## Fun
+* [ThePrimeagen/vim-be-good](https://github.com/ThePrimeagen/vim-be-good) - a nvim plugin to make you better at Vim Movements.
