@@ -7,7 +7,6 @@ Before installing a plugin try to do it the pure Vim way.
 * [vim-surround](https://github.com/tpope/vim-surround) - quoting/parenthesizing made simple.
 * [vim-fugitive](https://github.com/tpope/vim-fugitive) - a Git wrapper.
 * [supertab](https://github.com/ervandew/supertab) - perform all your vim insert mode completions with Tab.
-* [fzf.vim](https://github.com/junegunn/fzf.vim) - a bundle of fzf-based commands and mappings.
 * [auto-pairs](https://github.com/jiangmiao/auto-pairs) - insert or delete brackets, parens, quotes in pair.
 * [tcomment\_vim](https://github.com/tomtom/tcomment_vim) - easy to use, file-type sensible comments for Vim.
 * [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - load extensions like VSCode and host language servers.
@@ -22,12 +21,12 @@ Before installing a plugin try to do it the pure Vim way.
 
 ## Colors
 * [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - a [tree-sitter](https://github.com/tree-sitter/tree-sitter) interface for Neovim for highlighting
-[kyazdani42/nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons) - pretty icons and colors
+* [kyazdani42/nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons) - pretty icons and colors
 * [dracula/vim](https://github.com/dracula/vim) - a dark 🧛 theme
 * [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - a soft dark, fully customizable (Neo)Vim theme, with support for lsp, treesitter and a variety of plugins.
 
 ## Diagnostics
-[folke/trouble.nvim](https://github.com/folke/trouble.nvim) - pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
+* [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
 
 ## Formatting
 * [tabular](https://github.com/godlygeek/tabular) - script for text filtering and alignment.
