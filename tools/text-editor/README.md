@@ -23,7 +23,3 @@ My [.vimrc](https://github.com/psto/dotfiles/blob/master/init.vim) file and my [
 ## Other editors I use
 
 * [VSCodium](https://vscodium.com/) - a community-driven, freely-licensed binary distribution of Microsoft’s editor VSCode. Second best choice for me after neovim.
-* [Oni](https://www.onivim.io/) - built on neovim, combining modal editing with features of modern editors.
-* [Atom](https://atom.io/) - a hackable text editor built on Electron.
-* [Sublime Text](https://www.sublimetext.com/3) - just because old habits die hard.
-
