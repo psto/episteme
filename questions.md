@@ -58,4 +58,5 @@ Seeking the right questions beats seeking answers. Answers are fragile. Question
 * [Skip the small talk](https://lamaalrajih.com/2019/07/24/skip-the-small-talk-part-one/) questions by Lama Al Rajih
 * [10X Your Business](http://blog.eladgil.com/2010/10/10x-your-business.html) with just two questions by Elad Gil
 * [The State of (Business) Play](https://breakingsmart.substack.com/p/the-state-of-business-play) in 20 questions by Venkatesh Rao
+* [How to get useful answers to your questions](https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/) by Julia Evans
 
