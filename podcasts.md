@@ -6,17 +6,9 @@ I am subscribed to a lot of podcasts but I only listen to topics that sound inte
 
 **Tip**: listen to podcasts at 3x speed \(you can get used to it, start at 1.5x speed and work your way up\).
 
-I use [player.fm](https://player.fm).
+I use [AntennaPod](https://antennapod.org/) and sync with [gPodder](https://gpodder.github.io/) on desktop through [gpodder.net](https://gpodder.net/).
 
 ## What I listen to
-
-### **Random**:
-
-* [The 80,000 Hours Podcast with Rob Wiblin](https://80000hours.org/podcast/)
-* [The Tim Ferriss Show](https://tim.blog/podcast/)
-* [The Knowledge Project Podcast with Shane Parrish](https://fs.blog/the-knowledge-project/)
-* [The Kevin Rose Show](https://www.kevinrose.com/)
-* [Under The Influence with Terry O'Reilly](https://www.cbc.ca/radio/undertheinfluence)
 
 ### **Crypto**:
 
@@ -59,6 +51,14 @@ I use [player.fm](https://player.fm).
 * [Philosophy Bites](https://philosophybites.com/)
 * [Making Sense Podcast with Sam Harris ](https://samharris.org/podcast/)
 
+### **Random**:
+
+* [The 80,000 Hours Podcast with Rob Wiblin](https://80000hours.org/podcast/)
+* [The Tim Ferriss Show](https://tim.blog/podcast/)
+* [The Knowledge Project Podcast with Shane Parrish](https://fs.blog/the-knowledge-project/)
+* [The Kevin Rose Show](https://www.kevinrose.com/)
+* [Under The Influence with Terry O'Reilly](https://www.cbc.ca/radio/undertheinfluence)
+
 ### **Psychology**:
 
 * [Hidden Brain](https://www.npr.org/podcasts/510308/hidden-brain)
@@ -87,4 +87,4 @@ I use [player.fm](https://player.fm).
 * [Listen Notes](https://www.listennotes.com/) a podcast search engine.
 * [Best Podcast Search](https://bestpodcasts.com/)
 * "[Awesome podcasts](https://github.com/rShetty/awesome-podcasts)" podcasts for software engineers/programmers.
-
+* [Podcast Notes](https://podcastnotes.org/) - distilled notes from podcasts

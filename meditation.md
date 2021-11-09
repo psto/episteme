@@ -2,11 +2,13 @@
 
 > "Meditation is one of the greatest arts in life \(...\) and one cannot possibly learn it from anybody, that is the beauty of it." Jiddu Krishnamurti
 
+Meditation is the art of recognising again and again that you are not who you think you are.
+
 ### Thoughts
 
 * We are always in problem-solving mode. Even when we think we are in the present, we are looking for what'll happen next.
   * Thinking is useful but constantly losing oneself in thought is a nightmare.
-  * We are unaware of the the story we are telling ourselves all day long.
+  * We are unaware of the story we are telling ourselves all day long.
 * Meditation is the practice of running your brain in "[debug mode](https://en.wikipedia.org/wiki/Debug_menu)". 
   * Create space between your thoughts by being aware of them.
   * "We suffer more in imagination than in reality" – Seneca

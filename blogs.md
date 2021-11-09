@@ -5,7 +5,7 @@ I use [inoreader](https://inoreader.com) to stay up date with my subscriptions.
 ## Favourite blogs
 
 * [Melting Asphalt by Kevin Simler](https://meltingasphalt.com/)
-* [Slate Star Codex by Scott Alexander](https://slatestarcodex.com/)
+* [Astral Codex Ten](https://astralcodexten.substack.com/) by Scott Alexander \(used to be [Slate Star Codex](https://slatestarcodex.com/)\)
 * [Overcoming Bias by Robin Hanson](http://www.overcomingbias.com/)
 * [Paul Graham Essays](http://paulgraham.com/articles.html)
 * [Sam Altman](https://blog.samaltman.com/)
