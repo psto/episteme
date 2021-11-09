@@ -16,6 +16,7 @@ Before installing a plugin try to do it the pure Vim way.
 
 ## Navigation
 * [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick.
+* [nvim-telescope/telescope-fzf-native.nvim](https://github.com/nvim-telescope/telescope-fzf-native.nvim) - FZF sorter for telescope
 * [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - seamless navigation between tmux panes and vim splits
 * [karb94/neoscroll.nvim](https://github.com/karb94/neoscroll.nvim) - smooth scrolling
 

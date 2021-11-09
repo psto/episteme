@@ -18,7 +18,7 @@
 * [mps-youtube](https://github.com/mps-youtube/mps-youtube) - terminal based YouTube player.
 * [mpv](https://github.com/mpv-player/mpv) - media player.
 * [how2](https://github.com/santinic/how2) - stackoverflow from the terminal.
-* [npm](https://www.npmjs.com/) - package manager for JavaScript and the world’s largest software registry.
+* [pnpm](https://github.com/pnpm/pnpm) - fast, disk space efficient package manager
 * [ddgr](https://github.com/jarun/ddgr) - search DuckDuckGo from the command line.
 * [mutt](http://www.mutt.org) - terminal email client.
 * [thefuck](https://github.com/nvbn/thefuck) corrects errors in previous console commands.
