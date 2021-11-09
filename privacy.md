@@ -8,7 +8,7 @@ But "[I have nothing to hide!](https://en.wikipedia.org/wiki/Nothing_to_hide_arg
 
 ### What I use
 
-**Browser**: [Firefox](https://www.mozilla.org/kab/firefox/developer/) with [add-ons](https://www.privacytools.io/#addons) + [configs](https://www.privacytools.io/#about_config) and [Tor](https://www.torproject.org/download/download-easy.html.en); [Firefox mobile](https://www.mozilla.org/en-US/firefox/mobile/) and [Tor for android](https://www.torproject.org/projects/torbrowser.html.en#downloads-alpha) with [orbot](https://guardianproject.info/apps/orbot/).
+**Browser**: [Firefox](https://www.mozilla.org/kab/firefox/developer/) with [add-ons](https://www.privacytools.io/#addons) + [configs](https://www.privacytools.io/#about_config) and [Tor](https://www.torproject.org/download/download-easy.html.en); [Firefox mobile](https://www.mozilla.org/en-US/firefox/mobile/) and [Tor for android](https://www.torproject.org/projects/torbrowser.html.en#downloads-alpha) with [orbot](https://guardianproject.info/apps/orbot/). Currently trying out [LibreWolf Browser](https://librewolf-community.gitlab.io/) and [Brave Browser](https://brave.com/).
 
 **Text messaging**: [Signal](https://signal.org/)
 
@@ -24,7 +24,7 @@ But "[I have nothing to hide!](https://en.wikipedia.org/wiki/Nothing_to_hide_arg
 
 **2FA**: [FreeOTP](https://f-droid.org/en/packages/org.fedorahosted.freeotp/) for two-factor authentication.
 
-**Online Communication**: [Keybase](https://keybase.io/) \(you can find my info [here](https://keybase.io/psto)\) and [Riot](https://about.riot.im).
+**Online Communication**: [Element.io](https://element.io/) (former Riot).
 
 **VPN**: [ProtonVPN](https://protonvpn.com/)
 

@@ -50,5 +50,3 @@ That's it. Now comes the tough part. You have to read more. Everyday.
 * [check out MimbleWimble](protocols/mimblewimble.md)
 * [Privacy and Cryptocurrency, Part I: How Private is Bitcoin?](https://medium.com/human-rights-foundation-hrf/privacy-and-cryptocurrency-part-i-how-private-is-bitcoin-e3a4071f8fff)
 
-
-

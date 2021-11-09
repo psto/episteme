@@ -2,7 +2,7 @@
 
 ## Some courses I've enjoyed
 
-* [Learning to Learn by Barbara Oakley](https://www.coursera.org/learn/learning-how-to-learn)
+* [Learning to Learn by Barbara Oakley](https://www.coursera.org/learn/learning-how-to-learn) ([notes](learning/learning-how-to-learn.md))
 * [Human Behavioral Biology by Robert Sapolsky](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D) ([notes](https://www.robertsapolskyrocks.com/))
 * [Justice with Michael Sandel](https://www.youtube.com/playlist?list=PL30C13C91CFFEFEA6)
 * [A Brief History of Humankind by Yuval Noah Harar](https://www.youtube.com/playlist?list=PLfc2WtGuVPdmhYaQjd449k-YeY71fiaFp)
