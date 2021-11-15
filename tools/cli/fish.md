@@ -11,6 +11,10 @@ I use [fisher](https://github.com/jorgebucaran/fisher) to manage packages, becau
 * [Bass](https://github.com/edc/bass) - use utilities written for Bash in fish shell.
 * [Fzf](https://github.com/jethrokuan/fzf) integrate fzf functionality into fish.
 * [pisces](https://github.com/laughedelic/pisces) helps you to work with paired symbols in the command line.
+* [jorgebucaran/nvm.fish](https://github.com/jorgebucaran/nvm.fish) Node.js version manager.
+* [danhper/fish-ssh-agent](https://github.com/danhper/fish-ssh-agent) start your ssh agent.
+* [decors/fish-colored-man](https://github.com/decors/fish-colored-man) color-enabled man pages.
+* [dracula/fish](https://github.com/dracula/fish) dracula 🧛 theme.
 
 ## Links
 
