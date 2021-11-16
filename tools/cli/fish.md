@@ -6,15 +6,16 @@ I use [fisher](https://github.com/jorgebucaran/fisher) to manage packages, becau
 
 ### Some packages I use:
 
-* [spacefish](https://github.com/matchai/spacefish) - a minimalistic, powerful and extremely customizable Fish Shell prompt.
+* [tide](https://github.com/IlanCosman/tide) 🌊 rhe ultimate Fish prompt.
 * [z](https://github.com/jethrokuan/z) enables you to jump to the directory in mind.
-* [Bass](https://github.com/edc/bass) - use utilities written for Bash in fish shell.
+* [Bass](https://github.com/edc/bass) use utilities written for Bash in fish shell.
 * [Fzf](https://github.com/jethrokuan/fzf) integrate fzf functionality into fish.
 * [pisces](https://github.com/laughedelic/pisces) helps you to work with paired symbols in the command line.
-* [jorgebucaran/nvm.fish](https://github.com/jorgebucaran/nvm.fish) Node.js version manager.
-* [danhper/fish-ssh-agent](https://github.com/danhper/fish-ssh-agent) start your ssh agent.
-* [decors/fish-colored-man](https://github.com/decors/fish-colored-man) color-enabled man pages.
+* [nvm.fish](https://github.com/jorgebucaran/nvm.fish) Node.js version manager.
+* [fish-ssh-agent](https://github.com/danhper/fish-ssh-agent) start your ssh agent.
+* [fish-colored-man](https://github.com/decors/fish-colored-man) color-enabled man pages.
 * [dracula/fish](https://github.com/dracula/fish) dracula 🧛 theme.
+* [done](https://github.com/franciscolourenco/done) automatically receive notifications when long processes finish.
 
 ## Links
 
