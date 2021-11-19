@@ -9,9 +9,11 @@
 * [Translate Shell](https://github.com/soimort/translate-shell) - easy access to translation engines in your terminal.
 * [Todo.txt](https://github.com/todotxt/todo.txt-cli) - simple todo list based on a todo.txt file.
 * [bat](https://github.com/sharkdp/bat) - a cat\(1\) clone with wings.
-* [curl](https://github.com/curl/curl) - command line tool and library for transferring data with URL syntax.
+* [exa](https://github.com/ogham/exa) - a modern replacement for ‘ls’.
+* [httpie](https://github.com/httpie/httpie) -  a modern, user-friendly command-line HTTP client for the API era.
 * [openvpn](https://github.com/OpenVPN/openvpn) - an open source VPN daemon.
-* [protonvpn-cli-ng](https://github.com/ProtonVPN/protonvpn-cli-ng) - command-line client for ProtonVPN.
+* [protonvpn-cli-ng](https://github.com/ProtonVPN/protonvpn-cli-ng) - command-line client for ProtonVPN
+* [ranger](https://github.com/ranger/ranger) - a VIM-inspired filemanager for the console.
 * [tldr](https://github.com/tldr-pages/tldr) - simplified and community-driven man pages.
 * [transfer.sh](https://transfer.sh/) - easy file sharing from the command line.
 * [youtube-dl](https://github.com/rg3/youtube-dl) to download videos from youtube and other sites.
@@ -23,6 +25,8 @@
 * [mutt](http://www.mutt.org) - terminal email client.
 * [thefuck](https://github.com/nvbn/thefuck) corrects errors in previous console commands.
 * [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - make your diffs human readable instead of machine readable.
+* [btop](https://github.com/aristocratos/btop) - a cool monitor of resources.
+* [streamlink](https://github.com/streamlink/streamlink) - a CLI utility which pipes video streams from various services into a video player.
 
 ## Links
 
