@@ -21,7 +21,7 @@ My [.vimrc](https://github.com/psto/dotfiles/blob/master/init.vim) file and my [
 * [Let Vim do the typing](https://georgebrock.github.io/talks/vim-completion/) and [talk](https://www.youtube.com/watch?v=3TX3kV3TICU) by \_\*\*\_George Brocklehurst
 * [VimGolf](http://www.vimgolf.com/) pick a challenge, fire up Vim and share the result.
 * Examples of `.vimrc` files: [Chris Hunt](https://github.com/chrishunt/dot-files/blob/master/.vimrc) and [Gary Bernhardt](https://github.com/garybernhardt/dotfiles/blob/master/.vimrc).
-* `init.vim` and `init.lua` configs I take inspiration from: [ThePrimeagne](https://github.com/ThePrimeagen/.dotfiles/tree/master/nvim/.config/nvim), [TJ DeVries](https://github.com/tjdevries/config_manager/tree/master/xdg_config/nvim)
+* `init.vim` and `init.lua` configs I take inspiration from: [ThePrimeagen](https://github.com/ThePrimeagen/.dotfiles/tree/master/nvim/.config/nvim), [TJ DeVries](https://github.com/tjdevries/config_manager/tree/master/xdg_config/nvim)
 
 ## Other editors I use
 

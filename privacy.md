@@ -16,7 +16,7 @@ But "[I have nothing to hide!](https://en.wikipedia.org/wiki/Nothing_to_hide_arg
 
 **Search**: I'm a [DuckDuckGo](https://duckduckgo.com/) user since 2011 and it's getting better and better. A few others: [Searx](https://searx.me/), [Qwant](https://www.qwant.com/), [MetaGer](https://metager.org/), [Swisscows](https://swisscows.com/).
 
-**OS**: [Debian](https://www.debian.org/) with [i3 window manager](https://i3wm.org/). Sometimes [Tails](https://tails.boum.org/).
+**OS**: [Debian](https://www.debian.org/) with [i3 window manager](https://i3wm.org/). Sometimes [Tails](https://tails.boum.org/). Trying out [EndeavourOS](https://endeavouros.com/).
 
 **Mobile OS**: [LineageOS](https://www.lineageos.org/)
 
@@ -44,3 +44,4 @@ But "[I have nothing to hide!](https://en.wikipedia.org/wiki/Nothing_to_hide_arg
 * Other firefox configs: [ghacks-user.js](https://github.com/ghacksuserjs/ghacks-user.js) and [this gist](https://gist.github.com/0XDE57/fbd302cef7693e62c769).
 * [Turn It On](https://www.turnon2fa.com/) - guides to turn on two-factor authentication \(2FA\) on your accounts.
 * [Restore Privacy guides](https://restoreprivacy.com/category/guides/) by Sven Taylor like [Private Search Engines](https://restoreprivacy.com/private-search-engine/) overview.
+* [Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.](https://github.com/pluja/awesome-privacy)
