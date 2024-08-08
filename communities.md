@@ -19,7 +19,7 @@
 
 AI: [r/MachineLearning](https://www.reddit.com/r/MachineLearning/), [r/ControlProblem](https://www.reddit.com/r/ControlProblem/), [r/DecisionTheory](https://www.reddit.com/r/DecisionTheory/), [r/ReinforcementLearning](https://www.reddit.com/r/reinforcementlearning/), [r/MediaSynthesis](https://www.reddit.com/r/MediaSynthesis), [r/artificial](https://www.reddit.com/r/artificial), [r/OpenAI](https://www.reddit.com/r/OpenAI), [r/deeplearning](https://www.reddit.com/r/deeplearning)
 
-More fun subreddits: [r/Architecture](https://www.reddit.com/r/architecture/), [r/BizarreBuildings](https://www.reddit.com/r/bizarrebuildings/), [r/CrazyIdeas](https://www.reddit.com/r/CrazyIdeas/), [r/DepthHub](https://www.reddit.com/r/DepthHub/), [r/Design](https://www.reddit.com/r/Design), [r/ExplainLikeImFive](https://www.reddit.com/r/explainlikeimfive/), [r/IAmA](https://www.reddit.com/r/IAmA/), [r/PhysicsGifs](https://www.reddit.com/r/physicsgifs/), [r/Space](https://www.reddit.com/r/space/)
+More fun subreddits: [r/Architecture](https://www.reddit.com/r/architecture/), [r/BizarreBuildings](https://www.reddit.com/r/bizarrebuildings/), [r/CrazyIdeas](https://www.reddit.com/r/CrazyIdeas/), [r/DepthHub](https://www.reddit.com/r/DepthHub/), [r/Design](https://www.reddit.com/r/Design), [r/EducationalGifs/](https://www.reddit.com/r/educationalgifs/), [r/ExplainLikeImFive](https://www.reddit.com/r/explainlikeimfive/), [r/IAmA](https://www.reddit.com/r/IAmA/), [r/PhysicsGifs](https://www.reddit.com/r/physicsgifs/), [r/Space](https://www.reddit.com/r/space/)
 
 ## Links
 
