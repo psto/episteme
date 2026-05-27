@@ -1,14 +1,19 @@
+---
+created: 2024-10-04 11:47:45
+updated: 2026-05-27 17:22:16
+---
+
 # Bookmarklets
 
 Create a new bookmark and paste the JavaScript code in the URL box. Set an easy to remember keyword.
 
 * [Kill sticky headers](https://alisdair.mcdiarmid.org/kill-sticky-headers/) to remove annoying sticky headers.
 * [sci-hub.tw shortcut](research-papers.md#TIP)
-* to [see a dead page](https://en.wikipedia.org/wiki/Help:Using_the_Wayback_Machine#JavaScript_bookmarklet) with the [Wayback Machine](https://web.archive.org/): 
+* to [see a dead page](https://en.wikipedia.org/wiki/Help:Using_the_Wayback_Machine#JavaScript_bookmarklet) with the [Wayback Machine](https://web.archive.org/):
 ```javascript
 javascript:(function(){window.location.href = "https://web.archive.org/web/*/"+window.location.href;})();
 ```
-* save a web page: 
+* save a web page:
 ```javascript
 javascript:void(window.open('https://web.archive.org/save/'+location.href));
 ```
@@ -28,3 +33,7 @@ javascript:{var d,b,o,v,p;b=(d=document).body;o=d.createElement('script');o.setA
 ```javascript
 javascript:d=%22%22+(window.getSelection?window.getSelection():document.getSelection?document.getSelection():document.selection.createRange().text);d=d.replace(/%5Cr%5Cn%7C%5Cr%7C%5Cn/g,%22%20,%22);if(!d)d=prompt(%22Enter%20the%20words:%22,%20%22%22);if(d!=null)location=%22http://www.google.com/search?q=define:%22+escape(d).replace(/%20/g,%22+%22);void(0);
 ```
+
+## Links
+
+* https://github.com/voussoir/else/tree/master/Javascript

@@ -1,10 +1,15 @@
+---
+created: 2022-08-26 18:34:48
+updated: 2026-05-27 17:21:36
+---
+
 # Questions
 
-> “I would rather have questions that can't be answered than answers that can't be questioned.” ―Richard Feynman
+> "I would rather have questions that can't be answered than answers that can't be questioned." ―Richard Feynman
 >
 > "In all affairs it's a healthy thing now and then to hang a question mark on the things you have long taken for granted." ―Bertrand Russell
 >
-> “To ask the 'right' question is far more important than to receive the answer. The solution of a problem lies in the understanding of the problem; the answer is not outside the problem, it is in the problem.” ―Jiddu Krishnamurti
+> "To ask the 'right' question is far more important than to receive the answer. The solution of a problem lies in the understanding of the problem; the answer is not outside the problem, it is in the problem." ―Jiddu Krishnamurti
 
 ### Useful questions:
 
@@ -17,7 +22,7 @@
 * When you want different results \(in life/business/etc\) than everyone else, ask questions no one else has the courage or will to ask.
   * "What is currently not possible in my life/industry that if it was possible, would change the game?"
 * "What would your life look like if you measured every decision you made against your future vision?"
-* “What does it mean?” is often impractical. It's better to ask:
+* "What does it mean?" is often impractical. It's better to ask:
   * "How can I use it?"
   * "What can I learn from this?"
 * What is working and what could be working:
@@ -35,7 +40,7 @@
   * What's the process that generated that data?
   * What are the things that could have happened that might have led them to not measure something?
   * What's the data that's not present?
-* The [Hamming](https://www.lesswrong.com/posts/P5k3PGzebd5yYrYqd/the-hamming-question) [Question](http://www.paulgraham.com/hamming.html): What are the most important problems in your field, and why aren’t you working on them?
+* The [Hamming](https://www.lesswrong.com/posts/P5k3PGzebd5yYrYqd/the-hamming-question) [Question](http://www.paulgraham.com/hamming.html): What are the most important problems in your field, and why aren't you working on them?
 
 The question you most often ask yourself \(or others ask you\) can either guide or control you:
 

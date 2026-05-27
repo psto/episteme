@@ -1,3 +1,8 @@
+---
+created: 2022-08-26 18:34:48
+updated: 2026-05-27 17:21:39
+---
+
 # Search
 
 Searching is an essential skill. Yet for something we do every day we spend little time learning how to do it effectively. It's funny how search engines are improving faster than we become better at searching.

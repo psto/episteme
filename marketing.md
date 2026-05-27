@@ -1,6 +1,11 @@
+---
+created: 2022-08-26 18:34:48
+updated: 2026-05-27 17:21:27
+---
+
 # Marketing
 
-> "Most businesses actually get zero distribution channels to work. Poor distribution — not product — is the number one cause of failure. If you can get even a single distribution channel to work, you have great business. If you try for several but don’t nail one, you’re finished. So it’s worth thinking really hard about finding the single best distribution channel." - Peter Thiel
+> "Most businesses actually get zero distribution channels to work. Poor distribution — not product — is the number one cause of failure. If you can get even a single distribution channel to work, you have great business. If you try for several but don't nail one, you're finished. So it's worth thinking really hard about finding the single best distribution channel." - Peter Thiel
 
 **Warning**: _marketing is not a panacea for crappy products or a solution to a problem that doesn't exist_.
 
@@ -30,23 +35,23 @@ To sell, you have to get **T**raffic → **C**onvert it → profit \(**E**conomi
 
 _source:_ [_The Science of How Customers Buy Anything_](https://blog.leanstack.com/the-science-of-how-customers-buy-anything-84e72920e644) _by Ash Maurya_
 
-> "The first battle isn’t fought on the ground but in the mind of the customer. It isn’t fought with your built out solution but instead with an offer." - Ash Maurya
+> "The first battle isn't fought on the ground but in the mind of the customer. It isn't fought with your built out solution but instead with an offer." - Ash Maurya
 
-Every offer consists of 3 elements: 
+Every offer consists of 3 elements:
 
-1. **Unique Value Proposition** that grabs customer’s attention. 
-2. **Demo** which takes them from current reality to desired reality. 
+1. **Unique Value Proposition** that grabs customer's attention.
+2. **Demo** which takes them from current reality to desired reality.
 3. **Price** that locks in commitment.
 
 > "The aim of marketing is to know and understand the customer so well the product or service fits him and sells itself." - Peter Drucker
 
 The offer must turn unaware visitors into interested prospects.
 
-Be aware of a this journey that happens inside your customer’s mind:
+Be aware of a this journey that happens inside your customer's mind:
 
 ![The Motivational Forces That Drive Customers to Buy](https://cdn-images-1.medium.com/max/800/0*_HyzghYYi1LacO86.png)
 
-You have to take a potential customer from Point A \(curent reality without your product\) to Point B \( new reality where they need and use your product\): Reach \(USP\) → Engage \(demonstrate\) → Convert.
+You have to take a potential customer from Point A \(current reality without your product\) to Point B \( new reality where they need and use your product\): Reach \(USP\) → Engage \(demonstrate\) → Convert.
 
 Even with everything done right you are still facing:
 
@@ -66,7 +71,7 @@ After the sale you have nurture your relationship with the client \(onboarding, 
 
 ## Links
 
-* [Books on marketing I recommend](https://wiki.stojanow.com/books#marketing) 
+* [Books on marketing I recommend](https://wiki.stojanow.com/books#marketing)
 * [Quant Based Marketing](https://github.com/psto/episteme/tree/4be4f8804a51ebbd652065d912c2f0258aad3392/quant-based-marketing-for-pre-launch-start-up/README.md) by Noah Kagan
 * [28 Ideas For Content Upgrades To Grow Your Email List](https://sumo.com/stories/content-upgrades)
 * [1,000 True Fans](https://kk.org/thetechnium/1000-true-fans/) by Kevin Kelly

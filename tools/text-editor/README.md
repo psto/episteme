@@ -1,3 +1,8 @@
+---
+created: 2022-08-26 18:34:48
+updated: 2026-05-27 17:41:10
+---
+
 # Text Editor
 
 [Vim](https://www.vim.org/) is my favourite text editor \(I use [Neovim](https://github.com/neovim/neovim)\). It has changed completely how I interact with text. Any editor that forces you to use a mouse is wasting your time.
@@ -25,4 +30,4 @@ My [.vimrc](https://github.com/psto/dotfiles/blob/master/init.vim) file and my [
 
 ## Other editors I use
 
-* [VSCodium](https://vscodium.com/) - a community-driven, freely-licensed binary distribution of Microsoft’s editor VSCode. Second best choice for me after Neovim.
+* [VSCodium](https://vscodium.com/) - a community-driven, freely-licensed binary distribution of Microsoft's editor VSCode. Second best choice for me after Neovim.

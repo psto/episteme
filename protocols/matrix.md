@@ -1,3 +1,8 @@
+---
+created: 2022-08-26 18:34:48
+updated: 2026-05-27 17:22:01
+---
+
 # Matrix
 
 [Matrix](https://matrix.org) is an open standard for interoperable, decentralised, real-time communication over IP. It's designed to replicate conversation data across multiple servers via federation \(there are no single points of control or failure for conversations or their history\). Matrix is designed to make it easy to bridge existing communication apps and networks.

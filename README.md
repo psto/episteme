@@ -1,3 +1,8 @@
+---
+created: 2022-08-26 18:34:48
+updated: 2026-05-27 17:21:37
+---
+
 # Introduction
 
 ## What is a personal wiki anyway?
@@ -10,7 +15,7 @@ Browse the categories on the left or use the search bar above.
 
 ## My other projects
 
-You can find more of my writing on my [personal page](www.stojanow.com) and on [twitter](https://github.com/psto/episteme/tree/9bc69528c2cbd2c1f822f5b6fd39d3c7490ab393/www.twitter.com/piotrstojanow/README.md).
+You can find more of my writing on my [personal page](https://www.stojanow.com) and on [twitter](https://github.com/psto/episteme/tree/9bc69528c2cbd2c1f822f5b6fd39d3c7490ab393/www.twitter.com/piotrstojanow/README.md).
 
 I sometimes write `code` and share it on [github](https://github.com/psto/episteme/tree/9bc69528c2cbd2c1f822f5b6fd39d3c7490ab393/www.github.com/psto/README.md).
 

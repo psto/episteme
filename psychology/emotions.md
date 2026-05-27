@@ -1,3 +1,8 @@
+---
+created: 2022-08-26 18:34:48
+updated: 2026-05-27 17:22:07
+---
+
 # Emotions
 
 The following is my understanding of [Lisa Feldman Barrett's research](https://lisafeldmanbarrett.com/academic-papers/) and the [theory of constructed emotion](https://en.wikipedia.org/wiki/Theory_of_constructed_emotion).

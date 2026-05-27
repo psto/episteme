@@ -1,16 +1,21 @@
+---
+created: 2022-08-26 18:34:48
+updated: 2026-05-27 17:21:35
+---
+
 # Productivity
 
-> "People tend to abandon the good system they’ll follow in search of the perfect system that they will quit." ―Tim Ferriss
+> "People tend to abandon the good system they'll follow in search of the perfect system that they will quit." ―Tim Ferriss
 
 ### Notes
 
 * On distractions:
 
-  > “Follow the wandering, the distraction, find out why the mind has wandered; pursue it, go into it fully. When the distraction is completely understood, then that particular distraction is gone. When another comes, pursue it also.” Jiddu Krishnamurti
+  > "Follow the wandering, the distraction, find out why the mind has wandered; pursue it, go into it fully. When the distraction is completely understood, then that particular distraction is gone. When another comes, pursue it also." Jiddu Krishnamurti
 
 * The **70% Rule** by Jeff Bezos \([2016 Letter to Shareholders](https://www.amazon.com/p/feature/z6o9g6sysxur57t)\):
 
-  > “Most decisions should probably be made with somewhere around 70% of the information you wish you had. If you wait for 90%, in most cases, you’re probably being slow. Plus, either way, you need to be good at quickly recognizing and correcting bad decisions. If you’re good at course correcting, being wrong may be less costly than you think, whereas being slow is going to be expensive for sure.”
+  > "Most decisions should probably be made with somewhere around 70% of the information you wish you had. If you wait for 90%, in most cases, you're probably being slow. Plus, either way, you need to be good at quickly recognizing and correcting bad decisions. If you're good at course correcting, being wrong may be less costly than you think, whereas being slow is going to be expensive for sure."
 
 * Can't start? Use [BJ Fogg's technique](https://wiki.stojanow.com/habits): make an action as small as possible, do less than you are capable of doing.
   * Use positive constraints like the [Pomidoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique).

@@ -1,3 +1,8 @@
+---
+created: 2022-08-26 18:34:48
+updated: 2026-05-27 17:21:41
+---
+
 # Table of contents
 
 * [Introduction](README.md)
@@ -28,7 +33,6 @@
   * [Bookmarklets](tools/bookmarklets.md)
   * [Command Line Tools](tools/cli/README.md)
     * [fish](tools/cli/fish.md)
-  * [IFTTT](tools/ifttt.md)
   * [Text Editor](tools/text-editor/README.md)
     * [Vim Plugins](tools/text-editor/vim-plugins.md)
 * [Search](search.md)

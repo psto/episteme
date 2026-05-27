@@ -1,3 +1,8 @@
+---
+created: 2022-08-26 18:34:48
+updated: 2026-05-27 17:21:57
+---
+
 # Learn The Command Line
 
 * [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics) by Michael Hartl - a tutorial introduction to the Unix command line.

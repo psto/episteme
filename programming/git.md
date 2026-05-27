@@ -1,3 +1,8 @@
+---
+created: 2022-08-26 18:34:48
+updated: 2026-05-27 17:21:56
+---
+
 # Git
 
 ### "Gitting" started
@@ -14,7 +19,7 @@
 
 ### Git Books \(free\)
 
-* [Pro Git](https://git-scm.com/book/en/v2) by Scott Chacon and Ben Straub 
+* [Pro Git](https://git-scm.com/book/en/v2) by Scott Chacon and Ben Straub
 * [Pro Git Reedited](https://leanpub.com/progitreedited/read)
 * [Ry's Git Tutorial](https://www.smashwords.com/books/view/498426) by Ryan Hodson
 * [Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction)

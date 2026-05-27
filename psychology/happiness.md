@@ -1,6 +1,11 @@
+---
+created: 2022-08-26 18:34:48
+updated: 2026-05-27 17:22:09
+---
+
 # Happiness
 
-> “True happiness is to enjoy the present, without anxious dependence upon the future, not to amuse ourselves with either hopes or fears but to rest satisfied with what we have, which is sufficient. The greatest blessings of mankind are within us and within our reach. A wise man is content with his lot, whatever it may be, without wishing for what he has not.” — Seneca
+> "True happiness is to enjoy the present, without anxious dependence upon the future, not to amuse ourselves with either hopes or fears but to rest satisfied with what we have, which is sufficient. The greatest blessings of mankind are within us and within our reach. A wise man is content with his lot, whatever it may be, without wishing for what he has not." — Seneca
 
 A human being is the only animal that thinks about the future \([Dan Gilbert](https://en.wikipedia.org/wiki/Daniel_Gilbert_%28psychologist%29)\). We are not good at predicting it accurately though:
 
@@ -22,7 +27,7 @@ It's also worth noting that happiness may be genetic \([study by Lykken and Tell
 
 We can focus on what's under our control:
 
-> “The chief task in life is simply this: to identify and separate matters so that I can say clearly to myself which are externals not under my control, and which have to do with the choices I actually control. Where then do I look for good and evil? Not to uncontrollable externals, but within myself to the choices that are my own” —Epictetus, Discourses, 2.5.4– 5
+> "The chief task in life is simply this: to identify and separate matters so that I can say clearly to myself which are externals not under my control, and which have to do with the choices I actually control. Where then do I look for good and evil? Not to uncontrollable externals, but within myself to the choices that are my own" —Epictetus, Discourses, 2.5.4– 5
 
 Since using our own imagination to predict the future isn't accurate, we can ask people who are already living in "our future" how they feel. Seek out people who are doing what you're only imagining and measure their happiness. But, be aware that we have a bias to prefer information that we gather by our own actions over other people's opinions. We suffer from the illusion that we differ so much from other people that their experiences don't apply to us.
 
@@ -35,7 +40,7 @@ We should keep in mind the difference between happiness and satisfaction. As [Da
 
 Satisfaction relies on comparisons:
 
-> “Life satisfaction is connected to a large degree to social yardsticks–achieving goals, meeting expectations.” —Daniel Kahneman
+> "Life satisfaction is connected to a large degree to social yardsticks–achieving goals, meeting expectations." —Daniel Kahneman
 
 Money has an immense influence on life satisfaction, but happiness is affected by money only when funds are lacking.
 

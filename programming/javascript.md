@@ -1,6 +1,11 @@
+---
+created: 2022-08-26 18:34:48
+updated: 2026-05-27 17:21:56
+---
+
 # JavaScript
 
-> “Any application that can be written in JavaScript, will eventually be written in JavaScript.” — Jeff Atwood
+> "Any application that can be written in JavaScript, will eventually be written in JavaScript." — Jeff Atwood
 
 ### Quick guides to get started
 

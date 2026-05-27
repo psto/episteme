@@ -1,3 +1,8 @@
+---
+created: 2022-08-26 18:34:48
+updated: 2026-05-27 17:21:31
+---
+
 # News
 
 > "News is what somebody does not want you to print. All the rest is advertising." - Anonymous
@@ -7,8 +12,8 @@
 **Thoughts**
 
 * The news is not the end product, we are.
-* The media are merchants of fear, anxiety and [doubt](https://en.wikipedia.org/wiki/Merchants_of_Doubt). Scaremongering hacks our brains and distorts it. 
-* We are preprogrammed with fears that we've outgrown the need for. Danger and violence are not equally distributed. Imported fear hacks our attention \([negativity bias](https://en.wikipedia.org/wiki/Negativity_bias)\). 
+* The media are merchants of fear, anxiety and [doubt](https://en.wikipedia.org/wiki/Merchants_of_Doubt). Scaremongering hacks our brains and distorts it.
+* We are preprogrammed with fears that we've outgrown the need for. Danger and violence are not equally distributed. Imported fear hacks our attention \([negativity bias](https://en.wikipedia.org/wiki/Negativity_bias)\).
 * It's used as a [tool for profit and control](https://en.wikipedia.org/wiki/Manufacturing_Consent). The more fear is imported, the more freedom can be extorted.
 * The news consumes us. We must be aware that most news is propaganda or [entertainment](https://en.wikipedia.org/wiki/Amusing_Ourselves_to_Death) at best.
 

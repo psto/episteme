@@ -1,3 +1,8 @@
+---
+created: 2022-08-26 18:34:48
+updated: 2026-05-27 17:21:26
+---
+
 # Economics
 
 > "All models are wrong, but some are useful".
@@ -7,7 +12,7 @@
 * Most economics is speculation without stakes.
 * Observe the underlying incentives.
   * Who profits the most?
-  * Who suffers the most consequences directly from one’s actions?
+  * Who suffers the most consequences directly from one's actions?
   * How to \(re\)align the incentive structures?
 * There is always an opportunity cost \(even if good things happen\). Always ask:
   * "What is the trade-off?"

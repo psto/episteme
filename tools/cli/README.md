@@ -1,3 +1,8 @@
+---
+created: 2022-08-26 18:34:48
+updated: 2026-05-27 17:22:15
+---
+
 # Command Line Tools
 
 ### CLI tools I love
@@ -9,8 +14,8 @@
 * [Translate Shell](https://github.com/soimort/translate-shell) - easy access to translation engines in your terminal.
 * [Todo.txt](https://github.com/todotxt/todo.txt-cli) - simple todo list based on a todo.txt file.
 * [bat](https://github.com/sharkdp/bat) - a cat\(1\) clone with wings.
-* [exa](https://github.com/ogham/exa) - a modern replacement for ‘ls’.
-* [httpie](https://github.com/httpie/httpie) -  a modern, user-friendly command-line HTTP client for the API era.
+* [exa](https://github.com/ogham/exa) - a modern replacement for 'ls'.
+* [httpie](https://github.com/httpie/httpie) - a modern, user-friendly command-line HTTP client for the API era.
 * [openvpn](https://github.com/OpenVPN/openvpn) - an open source VPN daemon.
 * [protonvpn-cli-ng](https://github.com/ProtonVPN/protonvpn-cli-ng) - command-line client for ProtonVPN
 * [ranger](https://github.com/ranger/ranger) - a VIM-inspired filemanager for the console.

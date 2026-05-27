@@ -1,3 +1,8 @@
+---
+created: 2022-08-26 18:34:48
+updated: 2026-05-27 17:22:13
+---
+
 # fish
 
 [fish](https://fishshell.com/) is a smart and user-friendly command line shell. [Try it in the browser](https://rootnroll.com/d/fish-shell/).

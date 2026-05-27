@@ -1,3 +1,8 @@
+---
+created: 2022-08-26 18:34:48
+updated: 2026-05-27 17:21:32
+---
+
 # Podcasts
 
 I don't watch TV or read the news, but I do listen to podcasts. They are still underrated. Ideas seem to flourish more in a long form medium with a conversational tone. Also, I love how authors are forced to distil their needlessly-long-books.
@@ -19,7 +24,7 @@ I use [AntennaPod](https://antennapod.org/) and sync with [gPodder](https://gpod
 * [Unchained](https://unchainedpodcast.com/)
 * [Unconfirmed](https://unconfirmed.libsyn.com/)
 * [Crypto Cast Network](http://www.cryptocast.network/)
-* [The Bitcoin Knowledge ](https://www.bitcoin.kn/)
+* [The Bitcoin Knowledge](https://www.bitcoin.kn/)
 * [Epicenter](https://epicenter.tv/)
 
 ### **Business**:
@@ -39,9 +44,9 @@ I use [AntennaPod](https://antennapod.org/) and sync with [gPodder](https://gpod
 
 ### **History**:
 
-* [Hardcore History ](https://www.dancarlin.com/hardcore-history-series/)
+* [Hardcore History](https://www.dancarlin.com/hardcore-history-series/)
 * [Internet History](http://www.internethistorypodcast.com/)
-* [Revolutions](https://www.revolutionspodcast.com/) 
+* [Revolutions](https://www.revolutionspodcast.com/)
 * [The History of Rome](https://thehistoryofrome.typepad.com/) \(concluded\)
 
 ### **Philosophy**:
@@ -49,7 +54,7 @@ I use [AntennaPod](https://antennapod.org/) and sync with [gPodder](https://gpod
 * [The Partially Examined Life](https://partiallyexaminedlife.com/)
 * [Very Bad Wizards](https://verybadwizards.fireside.fm/)
 * [Philosophy Bites](https://philosophybites.com/)
-* [Making Sense Podcast with Sam Harris ](https://samharris.org/podcast/)
+* [Making Sense Podcast with Sam Harris](https://samharris.org/podcast/)
 
 ### **Random**:
 
@@ -78,7 +83,7 @@ I use [AntennaPod](https://antennapod.org/) and sync with [gPodder](https://gpod
 
 * [Exponent by Ben Thompson and James Allworth](https://exponent.fm/)
 * [IRL Podcast: Online Life is Real Life](https://irlpodcast.org/)
-* [Command Line Heroes ](https://www.redhat.com/en/command-line-heroes)
+* [Command Line Heroes](https://www.redhat.com/en/command-line-heroes)
 * [Future Thinkers](https://futurethinkers.org/)
 * [MIT Artificial Intelligence Podcast](https://lexfridman.com/ai/)
 

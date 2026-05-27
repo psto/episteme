@@ -1,14 +1,19 @@
+---
+created: 2022-08-26 18:34:48
+updated: 2026-05-27 17:21:36
+---
+
 # The Study of Progress
 
 > Most people agree that life is better than death. Health is better than sickness. Sustenance is better than hunger. Wealth is better than poverty. Peace is better than war. Safety is better than danger. Freedom is better than tyranny. Equal rights are better than bigotry and discrimination. Literacy is better than illiteracy. Knowledge is better than ignorance. Intelligence is better than dull-wittedness. Happiness is better than misery. Opportunities to enjoy family, friends, culture, and nature are better than drudgery and monotony.
-> 
+>
 > All these things can be measured. If they have increased over time, that is progress.
 >
 > -Steven Pinker, Enlightenment Now: The Case for Reason, Science, Humanism, and Progress
 
 ## Links
 * [The Roots of Progress](https://rootsofprogress.org/) - the story of human progress—and how we can keep it going
-* [Our World in Data](https://ourworldindata.org/) - research and data to make progress against the world’s largest problems
+* [Our World in Data](https://ourworldindata.org/) - research and data to make progress against the world's largest problems
 * [Human Progress](https://humanprogress.org) - looking at worldwide long-term trends through data
 * [Histography](http://histography.io/) - an interactive timeline of historical events
 * [We Need a New Science of Progress](https://amp.theatlantic.com/amp/article/594946/) by Patrick Collison and Tyler Cowen

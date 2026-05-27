@@ -1,13 +1,18 @@
+---
+created: 2022-08-26 18:34:48
+updated: 2026-05-27 17:21:24
+---
+
 # Design
 
-> “Principles of design:  
-> 1. Use both knowledge in the world and knowledge in the head.  
-> 2. Simplify the structure of tasks.  
-> 3. Make things visible: bridge gulfs between Execution and Evaluation.  
-> 4. Get the mappings right.  
-> 5. Exploit the power of constraints.  
-> 6. Design for error.  
-> 7. When all else fails, standardize.”  
+> "Principles of design:
+> 1. Use both knowledge in the world and knowledge in the head.
+> 2. Simplify the structure of tasks.
+> 3. Make things visible: bridge gulfs between Execution and Evaluation.
+> 4. Get the mappings right.
+> 5. Exploit the power of constraints.
+> 6. Design for error.
+> 7. When all else fails, standardize."
 > ―Donald A. Norman, The Design of Everyday Things
 
 ## Links

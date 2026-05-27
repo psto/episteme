@@ -1,3 +1,8 @@
+---
+created: 2022-08-26 18:34:48
+updated: 2026-05-27 17:21:46
+---
+
 # Book Notes
 
 * [The Antidote: Happiness for People Who Can't Stand Positive Thinking by Oliver Burkeman](https://stojanow.com/the-antidote/)

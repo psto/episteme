@@ -1,3 +1,8 @@
+---
+created: 2023-02-28 14:56:52
+updated: 2026-05-27 17:21:34
+---
+
 # Privacy
 
 Modern web is a [Panopticon](https://en.wikipedia.org/wiki/Panopticon)'s guard wet dream. We are being tracked by both private and state organizations. Data is the new gold rush and "[Surveillance Capitalism](https://www.faz.net/aktuell/feuilleton/debatten/the-digital-debate/shoshan-zuboff-on-big-data-as-surveillance-capitalism-13152525.html)" is [the biggest game](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2594754) in town.

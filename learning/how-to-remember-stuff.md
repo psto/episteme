@@ -1,3 +1,8 @@
+---
+created: 2024-08-08 12:27:12
+updated: 2026-05-27 17:21:50
+---
+
 # How to remember stuff?
 
 Two words: [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition).
@@ -17,9 +22,9 @@ Some plugins to enhance your Anki experience:
 
 ## Links
 
-* [How To Remember Anything Forever-ish ](https://ncase.me/remember/) by Nicky Case.
-* [Spaced Repetition ](https://www.gwern.net/Spaced-repetition)by Gwern.
-* [Augmenting Long-term Memory](http://augmentingcognition.com/ltm.html) by Michael Nielsen. 
+* [How To Remember Anything Forever-ish](https://ncase.me/remember/) by Nicky Case.
+* [Spaced Repetition](https://www.gwern.net/Spaced-repetition)by Gwern.
+* [Augmenting Long-term Memory](http://augmentingcognition.com/ltm.html) by Michael Nielsen.
 * [Effective learning: Twenty rules of formulating knowledge](https://www.supermemo.com/en/blog/twenty-rules-of-formulating-knowledge) by Piotr Wozniak.
 * [Art of Memory](https://artofmemory.com/start/) - on how to learn memory techniques.
 

@@ -1,3 +1,8 @@
+---
+created: 2022-08-26 18:34:48
+updated: 2026-05-27 17:21:25
+---
+
 # Documentaries
 
 * [The Century of the Self \(2002\)](https://www.imdb.com/title/tt0432232/)

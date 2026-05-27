@@ -1,6 +1,11 @@
+---
+created: 2022-08-26 18:34:48
+updated: 2026-05-27 17:22:02
+---
+
 # MimbleWimble
 
-Mimblewimble uses [elliptic-curve cryptography](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography) that requires smaller keys than other cryptography types. There are no addresses on the blockchain, and the network’s data storage is efficient.
+Mimblewimble uses [elliptic-curve cryptography](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography) that requires smaller keys than other cryptography types. There are no addresses on the blockchain, and the network's data storage is efficient.
 
 ## Links
 

@@ -1,3 +1,8 @@
+---
+created: 2022-08-26 18:34:48
+updated: 2026-05-27 17:21:58
+---
+
 # Programming
 
 > "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." —Patrick McKenzie
@@ -5,7 +10,7 @@
 ## Links
 
 * [What is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) by Paul Ford
-* [Programming Language Theory](https://steshaw.org/plt/) - a path to enlightenment for programming practitioners who didn’t learn it at school.
+* [Programming Language Theory](https://steshaw.org/plt/) - a path to enlightenment for programming practitioners who didn't learn it at school.
 * [GitHut](https://githut.info/) - visualize and explore the complexity of the universe of programming languages used across the repositories hosted on GitHub.
 * [Programming paradigms for dummies: what every programmer should know](https://blog.acolyer.org/2019/01/25/programming-paradigms-for-dummies-what-every-programmer-should-know/)
 * [Tips for reading new codebases](https://blog.safia.rocks/post/170269021619/tips-for-reading-new-codebases)

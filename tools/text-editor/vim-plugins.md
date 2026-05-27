@@ -1,3 +1,8 @@
+---
+created: 2022-08-26 18:34:48
+updated: 2026-05-27 17:22:16
+---
+
 # Vim Plugins
 
 Before installing a plugin try to do it the pure Vim way.

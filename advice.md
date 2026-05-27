@@ -1,6 +1,11 @@
+---
+created: 2022-08-26 18:34:48
+updated: 2026-05-27 17:21:04
+---
+
 # Advice
 
-> “In this way you must understand how laughable it is to say, ‘Tell me what to do!’ What advice could I possibly give? No, a far better request is, ‘Train my mind to adapt to any circumstance.’ …In this way, if circumstances take you off script… you won’t be desperate for a new prompting.” —Epictetus, Discourses, 2.2.20b– 1; 24b– 25a
+> "In this way you must understand how laughable it is to say, 'Tell me what to do!' What advice could I possibly give? No, a far better request is, 'Train my mind to adapt to any circumstance.' …In this way, if circumstances take you off script… you won't be desperate for a new prompting." —Epictetus, Discourses, 2.2.20b– 1; 24b– 25a
 
 Most advice is divorced from consequences. Advice is also cheap and lacks skin in the game. We discount advice because we [anticipate more regret from following bad advice than our own plans](https://onlinelibrary.wiley.com/doi/full/10.1002/bdm.2048). That said:
 
@@ -8,7 +13,7 @@ Most advice is divorced from consequences. Advice is also cheap and lacks skin i
 
 Beware of the [Solomon's Paradox](https://www.researchgate.net/publication/263016241_Exploring_Solomon's_Paradox_Self-Distancing_Eliminates_the_Self-Other_Asymmetry_in_Wise_Reasoning_About_Close_Relationships_in_Younger_and_Older_Adults)
 
-> "People reason more wisely about other people’s social problems than about their own."
+> "People reason more wisely about other people's social problems than about their own."
 
 Since we are better at giving advice than taking it ourselves, we can hack it by asking: "what would I advise to my best friend?" or "what would X do \(where X is the master of that particular domain\)?". Considering a problem from a third-person perspective \([self-distancing](https://en.wikipedia.org/wiki/Distancing_%28psychology%29#Self-distancing_perspective)\) makes us more adept at solving it.
 
