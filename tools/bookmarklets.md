@@ -1,6 +1,6 @@
 ---
 created: 2024-10-04 11:47:45
-updated: 2026-05-27 17:22:16
+updated: 2026-05-30 22:59:58
 ---
 
 # Bookmarklets
@@ -35,5 +35,4 @@ javascript:d=%22%22+(window.getSelection?window.getSelection():document.getSelec
 ```
 
 ## Links
-
-* https://github.com/voussoir/else/tree/master/Javascript
+- [Bookmarklet Maker](https://caiorss.github.io/bookmarklet-maker/) - generate a bookmarklet from `JavaScript` code

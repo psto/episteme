@@ -1,13 +1,13 @@
 ---
 created: 2022-08-26 18:34:48
-updated: 2026-05-30 22:51:16
+updated: 2026-05-30 23:03:54
 ---
 
 # Vim Plugins
 
 Before installing a plugin try to do it the pure Vim way.
 
-Plugins are managed with [lazy.nvim](https://github.com/folke/lazy.nvim). Configs live in `~/.config/nvim/lua/plugins/`.
+Plugins are managed with [lazy.nvim](https://github.com/folke/lazy.nvim). See my full config at [.dotfiles/nvim/.config/nvim](https://github.com/psto/.dotfiles/tree/main/nvim/.config/nvim).
 
 ## AI / Completion
 

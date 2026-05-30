@@ -33,6 +33,7 @@ updated: 2026-05-27 17:21:41
   * [Bookmarklets](tools/bookmarklets.md)
   * [Command Line Tools](tools/cli/README.md)
     * [fish](tools/cli/fish.md)
+    * [zsh](tools/cli/zsh.md)
   * [Text Editor](tools/text-editor/README.md)
     * [Vim Plugins](tools/text-editor/vim-plugins.md)
 * [Search](search.md)
