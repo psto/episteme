@@ -1,6 +1,6 @@
 ---
 created: 2022-08-26 18:34:48
-updated: 2026-05-27 17:41:10
+updated: 2026-05-30 22:52:33
 ---
 
 # Text Editor
@@ -11,7 +11,7 @@ Think of using Vim commands as composing sentences. Take a "verb"' `d` \(delete\
 
 Vim spoiled me to the point that I use vim-like movement to browse the web \([vimium](https://github.com/philc/vimium)\).
 
-My [.vimrc](https://github.com/psto/dotfiles/blob/master/init.vim) file and my [Vim plugins](vim-plugins.md).
+My [config](https://github.com/psto/dotfiles/blob/master/init.vim) file and my [nvim plugins](vim-plugins.md).
 
 ## Links
 
